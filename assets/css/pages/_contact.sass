@@ -1,0 +1,71 @@
+form
+  margin: 50px auto
+  font-size: 1.5em
+
+  input, textarea
+    width: 100%
+    padding: 10px
+    border: 2px solid #fff
+    border-bottom: 2px solid #000
+    // background-color: lighten($accent-color, 5%)
+    background-color: #fff
+    border-radius: 3px
+
+    &[type="submit"]
+      border-color: $accent-color
+
+    &[type="text"], &[type="email"]
+
+    &:focus
+      outline: none
+      background-color: $accent-light
+      border: 2px solid $accent-light
+      border-bottom: 2px solid $accent-color
+      border-radius: 3px
+
+  .input-focus
+    color: $accent-color
+    font-weight: 300
+
+  [type='submit']
+    background: $accent-color
+    color: #fff
+    text-transform: uppercase
+    width: 33%
+
+  .submit-container
+    text-align: right
+
+  label
+    display: block
+    margin-bottom: 20px
+
+    span
+      display: block
+      font-weight: 300
+      margin-bottom: 6px
+
+    textarea
+      resize: vertical
+      height: 10em
+
+  .contact-form-group
+    label
+      width: 50%
+      float: left
+
+      &:nth-child(odd)
+        padding-right: 5px
+
+      &:nth-child(even)
+        padding-left: 5px
+
+  @media only screen and (max-width: 768px)
+    .contact-form-group
+      label
+        width: 100%
+        float: none
+        padding: 0
+
+    [type='submit']
+      width: 100%

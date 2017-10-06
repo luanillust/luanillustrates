@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    <div class="post">
+      <header class="post-header">
+        <div class="header-img" style="background-image: url('{{ site.baseurl }}{{ page.header-img }}')"></div>
+        <div class="heading">
+          <h1 class="post-title">{{ page.title | emojify }}</h1>
+          <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
+        </div>
+      </header>
+
+      <div class="post-container">
+        <article class="post-content">
+          {{ content | emojify }}
+        </article>
+      </div>
+
+    </div>
+    {% include sidebar.html %}
+
+  </body>
+
+</html>

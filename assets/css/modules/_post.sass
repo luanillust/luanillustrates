@@ -1,0 +1,72 @@
+.post
+  // padding-left: 50px
+
+  .post-header
+    background-color: $accent-color
+
+    .header-img
+      // width: calc(100% + 100px)
+      width: 100%
+      height: 280px
+      padding-top: 40%
+      background:
+        size: cover
+        repeat: no-repeat
+        position: center center
+        // attachment: fixed
+      
+      // @media #{$mq-small}
+      //   padding: 0
+      //   height: 15em
+
+    .heading
+      padding: 25px 0
+
+      .post-title
+        font-weight: 600
+        text-align: left
+        max-width: 920px
+        margin: 0 auto
+        color: #fff
+
+      .post-meta
+        display: block
+        font:
+          size: 1.75em
+          weight: 600
+        text-align: left
+        max-width: 920px
+        margin: 0 auto
+        color: #fff
+
+  .post-container, .heading
+    margin: 0 4%
+    // margin-left: calc(4% + 50px)
+    // margin-right: 4%
+
+    .post-content
+      max-width: 950px
+      position: relative
+      margin: 50px auto
+
+      img
+        max-width: 100%
+      
+      .img-row
+        display: block
+        margin: 0 auto
+
+      // img.emojione
+      //   +size(1.125em)
+      //   vertical-align: text-top
+
+    @media #{$mq-medium}
+      margin: 0 8%
+      // margin-left: calc(8% + 50px)
+      // margin-right: 8%
+
+    @media #{$mq-large}
+      margin: 0 12%
+
+    @media #{$mq-xlarge}
+      margin: 0 18%

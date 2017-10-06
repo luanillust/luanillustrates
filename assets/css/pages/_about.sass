@@ -1,0 +1,66 @@
+.bio-headline
+  font-weight: 800
+  font-style: italic
+  color: #2e2d33
+  font-size: 3rem
+  text-align: center
+
+.bio-container
+  display: flex
+  flex-direction: column
+  align-items: center
+
+  .bio-img
+    margin: 10px
+    .full-image
+      width: 100%
+      display: none
+    .circle-image
+      border-radius: 50%
+
+    img
+      width: 300px
+
+  .bio-text
+    padding: 0 2em
+    font-size: 1.4rem
+
+@media only screen and (min-width: 625px)
+  .bio-headline
+    font-size: 3.5rem
+
+@media only screen and (min-width: 851px)
+  .bio-headline
+    text-align: right
+    position: absolute
+    top: 4%
+    right: 10%
+    font-size: 3.984rem
+
+  .bio-container
+    margin-top: 20%
+    display: flex
+    flex-direction: row
+    align-items: center
+
+    .bio-img
+      width: 49%
+      .full-image
+        display: block
+      .circle-image
+        display: none
+
+    .bio-text
+      width: 49%
+      padding: 1em
+
+@media only screen and (min-width: 1325px)
+  .bio-headline
+    text-align: left
+    position: absolute
+    top: 3.5%
+    left: -10%
+    font-size: 3.984rem
+
+  .bio-container
+    margin-top: 20%

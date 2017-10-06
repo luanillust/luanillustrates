@@ -1,0 +1,42 @@
+<div class="sidebar" id="sidebar">
+  <nav class="sidebar-menu">
+    <a href="{{ site.baseurl }}/" class="logo" id="logo"></a>
+    <ul>
+      {% for item in site.data.settings.sidebar-menu %}
+        <li>
+          {% if item.url %}
+            <a href="{{ site.baseurl }}{{ item.url }}" {% if item.sub %}class="sub-item"{% endif %}>{{ item.name }}</a>
+          {% else %}
+            <span>{{ item.name }}</span>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+  </nav>
+
+  <div class="sidebar-button">
+    <div class="text-container">{{ page.url | remove_first: '/' | split: '/' | first | upcase | replace: 'BLOG', 'LUANtics' }}</div>
+  </div>
+</div>
+
+<div class="button-container" id="toggle">
+  <span class="top"></span>
+  <span class="middle"></span>
+  <span class="bottom"></span>
+</div>
+
+<div class="overlay" id="overlay">
+  <nav class="overlay-menu">
+    <ul>
+      <li><a href="/" class="logo"></a>
+      {% for item in site.data.settings.overlay-menu %}
+        <li>
+          {% if item.url %}
+            <a href="{{ site.baseurl }}{{ item.url }}">{{ item.name }}</a>
+          {% else %}
+            <span>{{ item.name }}</span>
+          {% endif %}
+        </li>
+      {% endfor %}
+  </nav>
+</div>

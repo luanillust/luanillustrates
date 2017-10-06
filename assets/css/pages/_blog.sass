@@ -1,0 +1,53 @@
+ul
+  display: block
+  list-style-type: none
+  padding: 0
+
+.blog-item
+  font-size: 24px
+  text-transform: uppercase
+  color: #fff
+  display: block
+  padding: 40px 0 0 0
+  margin: 10px 0
+  background: no-repeat center center
+  background-size: cover
+  position: relative
+  height: 100px
+
+  .post-title
+    display: inline-block
+    position: absolute
+    bottom: 0
+    background: rgba(255,255,255,0.75)
+
+  .title-text
+    padding: 0 5px
+    color: #000
+
+  &:hover
+    .post-title
+      background:
+        color: rgb(155, 251, 210)
+
+    .title-text
+      color: #000
+  
+  .row
+    line-height: 1
+
+.highlight
+  position: relative
+  &:after
+    content: ""
+    display: block
+    background: rgba(249, 236, 49, 0.3)
+    height: 1em
+    width: 200px
+    z-index: -1
+    position: absolute
+    top: 0
+    left: 0
+    left: 5px
+    -webkit-transform: rotate(24deg) skewY(-24deg)
+    transform: rotate(24deg) skewY(-24deg)

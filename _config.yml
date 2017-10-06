@@ -1,0 +1,29 @@
+# Site settings
+title: Luan Tran
+name: Luan Illustrates
+
+# Social Links
+social:
+  instagram: luan.illust
+  facebook:  luanillustrates
+
+# Build settings
+host: 0.0.0.0
+port: 3000
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+destination: site
+
+plugins: ["jekyll-emoji", "jekyll-minifier"]
+emoji:
+  format: emojione-svg       # default html
+  ascii: false               # default false
+  shortname: true            # default true
+  # src: "/assets/imgs/emojis" # defaults to "https://cdn.jsdelivr.net/emojione/assets/#{ext}"
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+# Github pages
+baseurl: /luanillustrates

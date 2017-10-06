@@ -1,0 +1,141 @@
+---
+layout: index
+---
+<div class=splash-background></div>
+<div class="splash-content">
+  <div class="text-container">
+    <div class="current-link"></div>
+    <img class="splash-logo logo-wide" src="{{ site.baseurl }}/assets/img/logo_splash.png" alt="Luan Tran"/>
+    <img class="splash-logo logo-stacked" src="{{ site.baseurl }}/assets/img/logo_stacked.png" alt="Luan Tran"/>
+  </div>
+
+  <div class="splash-images">
+    <div class="splash-image illustration" style="background-image: url('{{ site.baseurl }}/assets/img/home/illustration_green.jpg')"></div>
+    <div class="splash-image photography" style="background-image: url('{{ site.baseurl }}/assets/img/home/photography_green.jpg')"></div>
+    <div class="splash-image blog" style="background-image: url('{{ site.baseurl }}/assets/img/home/blog_green.jpg')"></div>
+  </div>
+
+  <!-- <div class="colour-splash-images">
+    <div class="colour-splash-image illustration" style="background-image: url('{{ site.baseurl }}/assets/img/home/illustration_colour.jpg')"></div>
+    <div class="colour-splash-image photography" style="background-image: url('{{ site.baseurl }}/assets/img/home/photography_colour.jpg')"></div>
+    <div class="colour-splash-image blog" style="background-image: url('{{ site.baseurl }}/assets/img/home/blog_colour.jpg')"></div>
+  </div> -->
+
+  <div class="splash-icons">
+    <a class="about fa-stack" href="about">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-user fa-stack-1x fa-inverse"></i>
+    </a>
+    <a class="contact fa-stack" href="contact">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+    </a>
+    <a class="facebook fa-stack" href="https://www.facebook.com/{{ site.social.facebook }}">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+    </a>
+    <a class="instagram fa-stack" href="https://www.instagram.com/{{ site.social.instagram }}">
+      <i class="fa fa-circle fa-stack-2x"></i>
+      <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+    </a>
+  </div>
+
+  <nav class="splash-main-nav">
+    <a class="splash-link illustration" href="{{ site.baseurl }}/illustrations">Illustration</a>
+    <a class="splash-link photography" href="{{ site.baseurl }}/photography">Photography</a>
+    <a class="splash-link blog" href="{{ site.baseurl }}/blog">LUANtics</a>
+  </nav>
+</div>
+
+<script type="text/javascript">
+  // document.querySelector("a.illustration").addEventListener("mouseenter", setSplash.bind(this, "illustration"));
+  // document.querySelector("a.photography").addEventListener("mouseenter", setSplash.bind(this, "photography"));
+  // document.querySelector("a.blog").addEventListener("mouseenter", setSplash.bind(this, "blog"));
+
+  // Reset background
+  // document.querySelector(".nav-container").addEventListener("mouseleave", setSplash.bind(this, null));
+
+/*  function setSplash(newSplash) {
+    splashElement = document.querySelector(".splash-image");
+    if (newSplash == null) {
+      splashElement.style.display = "none";
+    } else {
+      if (splashElement.style.display == "none") splashElement.style.display = "block";
+      splashElement.style.backgroundImage = "url('/assets/img/thumb/" + newSplash + ".jpg')";
+    }
+    // console.log(splashElement.style.backgroundImage);
+  }*/
+
+/*    $(".fa-stack").on("mouseenter", function() {
+      $(this).find($(".fa-circle")).css({"display": "block","color": "#fff"});
+      $(this).find($(".fa-inverse")).css("color", "#bbffdb");
+    });
+
+    $(".fa-stack").on("mouseleave", function() {
+      $(this).find($(".fa-circle")).css("display","none");
+      $(this).find($(".fa-inverse")).css("color","#fff");
+    });*/
+
+/*  var logo = document.querySelector(".logo");
+  if (logo.complete) {
+    $(".splash-links").height($(".logo").height());
+    $(".splash-links").width($(".splash-content").width() - $(".logo").outerWidth());
+  } else {
+    logo.addEventListener('load', function() {
+      $(".splash-links").height($(".logo").height());
+      $(".splash-links").width($(".splash-content").width() - $(".logo").outerWidth());
+    });
+  }*/
+
+  $(document).ready(function() {
+    $(".about").on("mouseenter", function() {
+      $(".splash-content .text-container img").addClass("hidden");
+      $(".splash-content .text-container .current-link").text("About Me");
+    });
+
+    $(".contact").on("mouseenter", function() {
+      $(".splash-content .text-container img").addClass("hidden");
+      $(".splash-content .text-container .current-link").text("Let's Talk");
+    });
+
+    $(".facebook").on("mouseenter", function() {
+      $(".splash-content .text-container img").addClass("hidden");
+      $(".splash-content .text-container .current-link").text("Like me on Facebook");
+    });
+
+    $(".instagram").on("mouseenter", function() {
+      $(".splash-content .text-container img").addClass("hidden");
+      $(".splash-content .text-container .current-link").text("Follow me on Instagram");
+    });
+
+    $(".splash-icons").on("mouseleave", function() {
+      $(".splash-content .text-container img").removeClass("hidden");
+      $(".splash-content .text-container .current-link").text("");
+    });
+
+    $(".splash-link").on("mouseenter", function() {
+      var index = $(this).index();
+      $(".splash-content .text-container").css("display", "none");
+      $(".splash-image").removeClass("active");
+      $(".splash-image").eq(index).addClass("active");
+    });
+
+    $(".splash-main-nav").on("mouseleave", function() {
+      $(".splash-content .text-container").css("display", "flex");
+      $(".splash-image").removeClass("active");
+    });
+
+    $(".splash-link").on("mouseclick", function() {
+      var index = $(this).index();
+      $(".splash-content .text-container").css("display", "none");
+      $(".colour-splash-image").removeClass("active");
+      $(".colour-splash-image").eq(index).addClass("active");
+    });
+
+/*    $(window).resize(function resize() {
+      $(".splash-links").height($(".logo").height());
+      $(".splash-links").width($(".splash-content").width() - $(".logo").outerWidth());
+    }).trigger('resize');
+*/
+  });
+</script>

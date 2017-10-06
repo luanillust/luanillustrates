@@ -1,0 +1,46 @@
+---
+layout: page
+title: Let's Talk
+---
+<div class="form-container">
+  <form action="//formspree.io/hi@luanillustrates.com" method="POST">
+    
+    <input type="hidden" name="_next" value="//site.io/thanks.html" />
+    <input type="text" name="_gotcha" style="display: none" />
+    <input type="hidden" name="_subject" value="Luan Illustrates Client" />
+
+    <div class="contact-form-group">
+      <label>
+        <span>Your name:</span>
+        <input type="text" name="name" />
+      </label>
+
+      <label>
+        <span>Your e-mail:</span>
+        <input type="email" name="_replyto" />
+      </label>
+    </div>
+
+    <label>
+      <span>Tell me about your project:</span>
+      <textarea name="message"></textarea>
+    </label>
+
+    <div class="submit-container">
+      <input type="submit" value="Send">
+    </div>
+
+  </form>
+</div>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+
+    // change label color on form focus
+    $('form label textarea, form label input').focus(function() {
+      $(this).siblings('span').addClass('input-focus');
+    }).blur(function() {
+      $('span').removeClass('input-focus');
+    });
+  });
+</script>
