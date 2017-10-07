@@ -14,7 +14,7 @@ markdown: kramdown
 permalink: /blog/:year/:month/:day/:title/
 destination: site
 
-plugins: ["jekyll-emoji", "jekyll-minifier"]
+plugins: ["jekyll-emoji"]
 emoji:
   format: emojione-svg       # default html
   ascii: false               # default false
