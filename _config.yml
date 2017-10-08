@@ -11,10 +11,10 @@ social:
 host: 0.0.0.0
 port: 3000
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title/
+permalink: /luantics/:slug/
 destination: site
 
-plugins: ["jekyll-emoji"]
+# plugins: ["jekyll-emoji"]
 emoji:
   format: emojione-svg       # default html
   ascii: false               # default false
@@ -26,4 +26,4 @@ sass:
   style: :nested
 
 # Github pages
-baseurl: /luanillustrates
+# baseurl: /luanillustrates

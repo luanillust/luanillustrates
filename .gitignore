@@ -22,7 +22,8 @@ Temporary Items
 .apdisk
 
 #jekyll site
-_site/
+_site
+site
 assets/img/001
 
 ### Sass ###
