@@ -14,7 +14,7 @@ markdown: kramdown
 permalink: /luantics/:slug/
 destination: site
 
-# plugins: ["jekyll-emoji"]
+plugins: ["jekyll-emoji"]
 emoji:
   format: emojione-svg       # default html
   ascii: false               # default false
