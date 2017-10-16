@@ -3,7 +3,7 @@ layout: post
 number: "002"
 title: "Day 02: Repe- Repe- Repetition"
 date: 16.10.2017
-header-img: /assets/img/P001/P001banner.jpg
+header-img: /assets/img/P002/P002banner.jpg
 categories:
   - Japan
   - Travel
