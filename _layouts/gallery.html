@@ -15,7 +15,7 @@ layout: page
       </ul>
       {% for image in gallery.images %}
         <div id="{{ gallery.id }}-{{ forloop.index }}" class="gallery-content">
-          <img class="image" src="{{ site.baseurl }}/{{ gallery.imagefolder }}/{{ image.file }}">
+          <img class="image" src="{{ site.baseurl }}/{{ gallery.imagefolder }}/{{ image.file }}" alt="{{ image.alt }}">
           {% if image.title %}
             <div class="description">
               <h2>{{ image.title }}</h2>
