@@ -32,7 +32,7 @@
   - file: P-P06-reperepetition.jpg
     thumb: P-P06-reperepetition.jpg
     title: Reperepetition
-    text: 
+    text: repetition
     alt: an infinity-like look down the train carriages
   - file: P-P07-archived.jpg
     thumb: P-P07-archived.jpg
@@ -72,13 +72,28 @@
     title: "World WILD Web: Gerry"
     text: Advertisement poster for my critically acclaimed feature film
     alt: Movie poster with gerbil making snow angel
-  - file: P-I04_desert_igloo.jpg
-    thumb: P-I04_desert_igloo.jpg
+  - file: P-I04_0Q_f5.6.png
+    thumb: P-I04_0Q_f5.6.png
+    title: "0Q: f/5.6"
+    text: My chart-topping perfect all-kill single
+    alt: Clownfish in transparent lens housing
+  - file: P-I05_0Q_acarium.png
+    thumb: P-I05_0Q_acarium.png
+    title: "0Q: Acarium"
+    text: "#1 on Billboard 100 for 2 years straight"
+    alt: Small school of fish in transparent car
+  - file: P-I05_0Q_washout.png
+    thumb: P-I05_0Q_washout.png
+    title: "0Q: Wash Out"
+    text: Grammy song of the century
+    alt: Tropical fish in transparent washing machine
+  - file: P-I07_desert_igloo.jpg
+    thumb: P-I07_desert_igloo.jpg
     title: "Egyptian Igloo"
     text: Coarse and rough and irritating and gets everywhere
     alt: Pyramid shaped igloos in a raging sandstorm
-  - file: P-I05_deep_sea_dive.jpg
-    thumb: P-I05_deep_sea_dive.jpg
-    title: "Deap Sea Dive"
-    text:
+  - file: P-I08_deep_sea_dive.jpg
+    thumb: P-I08_deep_sea_dive.jpg
+    title: "Deep Sea Dive"
+    text: X
     alt: Scuba diver searching in the depths of the sea
