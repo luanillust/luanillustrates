@@ -72,7 +72,6 @@ categories:
 <div class="row">
 	<img class="left" src="{{ baseurl }}/assets/img/P002/36A.jpg"/>
 	<img class="right" src="{{ baseurl }}/assets/img/P002/36B.jpg"/>
-
 </div>
 <img src="{{ baseurl }}/assets/img/P002/37.jpg"/>
 <img src="{{ baseurl }}/assets/img/P002/38.jpg"/>
@@ -125,3 +124,31 @@ categories:
 <img src="{{ baseurl }}/assets/img/P002/64.jpg"/>
 <img src="{{ baseurl }}/assets/img/P002/65.jpg"/>
 <img src="{{ baseurl }}/assets/img/P002/66.jpg"/>
+<div class="row">
+	<img class="left" src="{{ baseurl }}/assets/img/P002/67A.jpg"/>
+	<img class="right" src="{{ baseurl }}/assets/img/P002/67B.jpg"/>
+</div>
+<div class="row">
+	<img class="left" src="{{ baseurl }}/assets/img/P002/68A.jpg"/>
+	<img class="right" src="{{ baseurl }}/assets/img/P002/68B.jpg"/>
+</div>
+<img src="{{ baseurl }}/assets/img/P002/69.jpg"/>
+<img src="{{ baseurl }}/assets/img/P002/70.jpg"/>
+<div class="row">
+	<img class="left" src="{{ baseurl }}/assets/img/P002/71A.jpg"/>
+	<img class="right" src="{{ baseurl }}/assets/img/P002/71B.jpg"/>
+</div>
+<img src="{{ baseurl }}/assets/img/P002/72.jpg"/>
+<img src="{{ baseurl }}/assets/img/P002/73.jpg"/>
+<img src="{{ baseurl }}/assets/img/P002/74.jpg"/>
+<img src="{{ baseurl }}/assets/img/P002/75.jpg"/>
+<div class="row">
+	<img class="left" src="{{ baseurl }}/assets/img/P002/76A.jpg"/>
+	<img class="right" src="{{ baseurl }}/assets/img/P002/76B.jpg"/>
+</div>
+<div class="row">
+	<img class="left" src="{{ baseurl }}/assets/img/P002/76C.jpg"/>
+	<img class="right" src="{{ baseurl }}/assets/img/P002/76D.jpg"/>
+</div>
+<img src="{{ baseurl }}/assets/img/P002/77.jpg"/>
+<img src="{{ baseurl }}/assets/img/P002/78.jpg"/>
