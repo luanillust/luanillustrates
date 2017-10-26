@@ -11,7 +11,7 @@ categories:
 
 2016年 12月 13日 (火) 
 
-Japan part II of ∞. What felt like a pipedream was now a reality. My friends and I were in talks about this trip for the longest time but we didn’t walk the walk. I kept prolonging anything from happening because I was waiting for cheap fares, but <a href="https://youtu.be/GsebMOWQiYM?t=30s">I was a _foool_</a>. It didn't help that shifts were scarce, leaving funding for the trip waning as days went on. And maaaaaybe it didn't help that I was spending so frivolously <sub>(still do to this day)</sub>. BUT! Through the bleak clouds of doubt came a ray of sunshine called action. 
+Japan part II of ∞ <sup>(my first trip coming maybe?...).</sup> What felt like a pipedream was now a reality. My friends and I were in talks about this trip for the longest time but we didn’t walk the walk. I kept prolonging anything from happening because I was waiting for cheap fares, but <a href="https://youtu.be/GsebMOWQiYM?t=30s">I was a _foool_</a>. It didn't help that shifts were scarce, leaving funding for the trip waning as days went on. And maaaaaybe it didn't help that I was spending so frivolously <sub>(still do to this day)</sub>. BUT! Through the bleak clouds of doubt came a ray of sunshine called action. 
 
 <video autoplay muted playsinline loop>
 <source src="{{ baseurl }}/assets/img/P001/00.webm" alt="animated words of action bursting through doubt"/>
