@@ -10,7 +10,7 @@
         <div class="header-img" style="background-image: url('{{ site.baseurl }}{{ page.header-img }}')"></div>
         <div class="heading">
           <h1 class="post-title">{{ page.title | emojify }}</h1>
-          <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
+          <span class="post-meta">{% if page.action %}{{ page.action | capitalize }} {% endif%}{% if page.datec %}{{ page.datec | date: "%b %-d, %Y" }}{% endif %}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
         </div>
       </header>
 
@@ -44,6 +44,7 @@
         });
       });
 */
+
       $('.imageset img').click(function(){
         html = "<a href='" + this.src + "' data-featherlight-gallery>" + this.outerHTML + "</a>";
         console.log(html);

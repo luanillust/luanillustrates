@@ -2,7 +2,8 @@
 layout: post
 number: "002"
 title: "JPN Day 02: Repe-Repetition"
-date: 16.10.2017
+action: posted
+datec: 16.10.2017
 header-img: /assets/luantics/P002/P002banner.jpg
 categories:
   - Japan
@@ -22,7 +23,7 @@ Not much later, we arrived at a desolate Tokyo station. Desolate for all of five
 With shinkansen tickets booked, it was a chance to pick up a meal. A shinkansen trip wouldn’t be complete without a bento box. Surprisingly, I haven’t experienced the joy of consuming one, so when I was shopping, I was in awe at the amount of choice available. It was just shelves upon shelves and stacks upon stacks. In the end, I got what reflected myself. <sub>A mirror hahaaa...</sub> It was a novelty shinkansen shaped box. Also fitting for the group’s first shinkansen trip. 
 
 <div class="imageset">
-	<div class="row" style="height: 330px">
+	<div class="row">
 		<img src="{{ baseurl }}/assets/luantics/P002/01.jpg" alt="shinkansen obento meal" class="one-third"/>
 		<img src="{{ baseurl }}/assets/luantics/P002/02.jpg" alt="Rilakkuma themed obento with Suntory tea" class="two-thirds"/>
 	</div>
@@ -209,7 +210,7 @@ Now, we hadn’t really eaten since morning so you could bet your bottom dollar 
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P002/66.jpg" alt="bright avenue of food stalls"/>
-	<div class="row" style="height: 370px">
+	<div class="row">
 		<img src="{{ baseurl }}/assets/luantics/P002/67A.jpg" alt="man grilling skewers" class="one-third"/>
 		<img src="{{ baseurl }}/assets/luantics/P002/67B.jpg" alt="skewers grilled on hot plate" class="two-thirds"/>
 	</div>
