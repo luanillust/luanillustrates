@@ -16,7 +16,8 @@ Japan part II of ∞ <sup>(my first trip coming maybe?...).</sup> What felt like
 
 <div class="imageset">
 	<video autoplay muted playsinline loop>
-		<source src="{{ baseurl }}/assets/luantics/P001/00.webm" alt="animated words of action bursting through doubt"/>
+		<source src="{{ baseurl }}/assets/luantics/P001/00.webm" type="video/webm">
+		<source src="{{ baseurl }}/assets/luantics/P001/00.mp4" type="video/mp4">
 	</video>
 </div>
 
@@ -47,18 +48,22 @@ While this trip would have been fantastic by myself, it was exponentially better
 <div class="imageset">
 	<div class="row">
 		<video autoplay muted playsinline loop class="half">
-			<source src="{{ baseurl }}/assets/luantics/P001/03A.webm" alt="title card for Alex"/>
+			<source src="{{ baseurl }}/assets/luantics/P001/03A.webm" type="video/webm">
+			<source src="{{ baseurl }}/assets/luantics/P001/03A.mp4" type="video/mp4">
 		</video>
 		<video autoplay muted playsinline loop class="half">
-			<source src="{{ baseurl }}/assets/luantics/P001/03C.webm" alt="title card for Carolyn"/>
+			<source src="{{ baseurl }}/assets/luantics/P001/03C.webm" type="video/webm">
+			<source src="{{ baseurl }}/assets/luantics/P001/03C.mp4" type="video/mp4">
 		</video>
 	</div>
 	<div class="row">
 		<video autoplay muted playsinline loop class="half">
-			<source src="{{ baseurl }}/assets/luantics/P001/03V.webm" alt="title card for Vivian"/>
+			<source src="{{ baseurl }}/assets/luantics/P001/03V.webm" type="video/webm">
+			<source src="{{ baseurl }}/assets/luantics/P001/03V.mp4" type="video/mp4">
 		</video>
 		<video autoplay muted playsinline loop class="half">
-			<source src="{{ baseurl }}/assets/luantics/P001/03W.webm" alt="title card for Wilson"/>
+			<source src="{{ baseurl }}/assets/luantics/P001/03W.webm" type="video/webm">
+			<source src="{{ baseurl }}/assets/luantics/P001/03W.mp4" type="video/mp4">
 		</video>
 	</div>
 </div>
@@ -67,7 +72,8 @@ With a miscellany of things booked, I only had to <a href="https://youtu.be/SQWq
 
 <div class="imageset">
 	<video autoplay muted playsinline loop>
-		<source src="{{ baseurl }}/assets/luantics/P001/04.webm" alt="montage squence of bank account transactions"/>
+		<source src="{{ baseurl }}/assets/luantics/P001/04.webm" type="video/webm">
+		<source src="{{ baseurl }}/assets/luantics/P001/04.mp4" type="video/mp4">
 	</video>
 </div>
 
