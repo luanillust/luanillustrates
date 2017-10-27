@@ -1,0 +1,12 @@
+To Do
+blog post header image center
+LUANtics header
+disable scrolling in lightbobx/overlay menu html, body {margin: 0; height: 100%; overflow: hidden}
+rename splash images
+align overlay menu button
+mobile about page
+delay loading pages from splash menu
+
+blog urls
+left/right images blog
+center images

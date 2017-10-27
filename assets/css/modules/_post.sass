@@ -49,12 +49,30 @@
       position: relative
       margin: 50px auto
 
-      img
-        max-width: 100%
-      
-      .img-row
-        display: block
-        margin: 0 auto
+      img, video
+        max-width: 750px
+        height: 100%
+        object-fit: cover
+
+      .imageset
+        text-align: center
+        
+        img
+          width: 100%
+
+      .row
+        max-width: 750px
+        display: inline-flex
+        justify-content: space-between
+
+        .one-third
+          width: 33%
+
+        .two-third, .two-thirds
+          width: 66%
+
+        .half
+          width: 49.5%
 
       // img.emojione
       //   +size(1.125em)

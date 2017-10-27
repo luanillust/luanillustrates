@@ -3,7 +3,7 @@ layout: post
 number: "001"
 title: "JPN Day 01: Sayonara Australia, G'day Japan"
 date: 16.10.2017
-header-img: /assets/img/P001/P001banner.jpg
+header-img: /assets/luantics/P001/P001banner.jpg
 categories:
   - Japan
   - Travel
@@ -13,19 +13,25 @@ categories:
 
 Japan part II of ∞ <sup>(my first trip coming maybe?...).</sup> What felt like a pipedream was now a reality. My friends and I were in talks about this trip for the longest time but we didn’t walk the walk. I kept prolonging anything from happening because I was waiting for cheap fares, but <a href="https://youtu.be/GsebMOWQiYM?t=30s">I was a _foool_</a>. It didn't help that shifts were scarce, leaving funding for the trip waning as days went on. And maaaaaybe it didn't help that I was spending so frivolously <sub>(still do to this day)</sub>. BUT! Through the bleak clouds of doubt came a ray of sunshine called action. 
 
-<video autoplay muted playsinline loop>
-<source src="{{ baseurl }}/assets/img/P001/00.webm" alt="animated words of action bursting through doubt"/>
-</video>
+<div class="imageset">
+	<video autoplay muted playsinline loop>
+		<source src="{{ baseurl }}/assets/luantics/P001/00.webm" alt="animated words of action bursting through doubt"/>
+	</video>
+</div>
 
 It was an early September morning where I thought to myself, “what better way to start the season than to _spring_ into action”. Now there weren’t any sales or promotions active at the time but I made the decision to book the flights anyway. That’s not to say I rashly came to that decision. I looked around <sub>...for a good couple of minutes.</sub> 
 
 やった! We walked the walk.
 
-<img src="{{ baseurl }}/assets/img/P001/01.gif" alt="tentacle pushing hype lever to max"/>
+<div class="imageset">
+	<img src="{{ baseurl }}/assets/luantics/P001/01.gif" alt="tentacle pushing hype lever to max"/>
+</div>
 
 A common weakness in myself is that I’m uncannily too organised for my own good and, of course, I devised the _ULTIMATE_ itinerary <sub><sub>…to fade from existence.</sub></sub> In my previous trip to Japan, I only had the chance to experience Tokyo and its encompassing areas (i.e. Hakone, Nikko). However, with the _ULTIMATE_ itinerary in hand, I was given the chance to experience a broader range of what Japan had to offer.
 
-<img src="{{ baseurl }}/assets/img/P001/02.gif" alt="montage sequence of japanese topics"/>
+<div class="imageset">
+	<img src="{{ baseurl }}/assets/luantics/P001/02.gif" alt="montage sequence of japanese topics"/>
+</div>
 
 Day in and day out, I spent some time building up the itinerary. It’s hard to forget how much fun I had when I discovered each fact or tid-bits about each location, or be inspired to capture the treasurable landmarks and memories to come. All while amping myself up more and more… for months on end... An unfortunate dichotomy between pleasure and pain.
 
@@ -37,26 +43,32 @@ My final recommendation is 1Cover for insurance. Comprehensive cover for the gro
 
 While this trip would have been fantastic by myself, it was exponentially better thanks to the accompaniment of my dear friends – the cream of the crop. Hand selected for ~~their love of Japan, strong rapport, and~~ being the only ones available <sub>(time-ly and fiscally)</sub>. That left me with Alex, Carolyn, Vivian, and Wilson - each contributing their unique personalities and traits to make the trip better <sub><sub>or worse <sub>(100% worse).</sub></sub></sub>
 
-<div class="row">
-	<video autoplay muted playsinline loop class="left">
-		<source src="{{ baseurl }}/assets/img/P001/03A.webm" alt="title card for Alex"/>
-	</video>
-	<video autoplay muted playsinline loop class="right">
-		<source src="{{ baseurl }}/assets/img/P001/03C.webm" alt="title card for Carolyn"/>
-	</video>
-</div>
-<div class="row">
-	<video autoplay muted playsinline loop class="left">
-		<source src="{{ baseurl }}/assets/img/P001/03V.webm" alt="title card for Vivian"/>
-	</video>
-	<video autoplay muted playsinline loop class="right">
-		<source src="{{ baseurl }}/assets/img/P001/03W.webm" alt="title card for Wilson"/>
-	</video>
+<div class="imageset">
+	<div class="row">
+		<video autoplay muted playsinline loop class="half">
+			<source src="{{ baseurl }}/assets/luantics/P001/03A.webm" alt="title card for Alex"/>
+		</video>
+		<video autoplay muted playsinline loop class="half">
+			<source src="{{ baseurl }}/assets/luantics/P001/03C.webm" alt="title card for Carolyn"/>
+		</video>
+	</div>
+	<div class="row">
+		<video autoplay muted playsinline loop class="half">
+			<source src="{{ baseurl }}/assets/luantics/P001/03V.webm" alt="title card for Vivian"/>
+		</video>
+		<video autoplay muted playsinline loop class="half">
+			<source src="{{ baseurl }}/assets/luantics/P001/03W.webm" alt="title card for Wilson"/>
+		</video>
+	</div>
 </div>
 
 With a miscellany of things booked, I only had to <a href="https://youtu.be/SQWqksdE4gw?t=1m22s">work, <sub>work, work, <sub>work, work…</sub></sub></a>And save what I earned <sub>earned, earned, <sub>earned, earned…</sub></sub> (HAH! Hello new lens*es*, LEE filters, tablet, memory cards…).
 
-<source src="{{ baseurl }}/assets/img/P001/04.webm" alt="montage squence of bank account transactions"/>
+<div class="imageset">
+	<video autoplay muted playsinline loop>
+		<source src="{{ baseurl }}/assets/luantics/P001/04.webm" alt="montage squence of bank account transactions"/>
+	</video>
+</div>
 
 :fast_forward: past the anguish and quickly to 13.12.16, the day we had been waiting for all that time.
 
@@ -64,9 +76,11 @@ As per usual for me, on a night before anything that was remotely eventful, I ba
 
 Last minute triple checks and a carpool ride later, the gang was physically together for the first time. Cue the usual dreary airport routine. This time round though… it was surprisingly quick. It’s just that when I am travelling with my dad in the mix, time and space just ceases indefinitely. 
 
-<div class="row">
-	<img class="left" src="{{ baseurl }}/assets/img/P001/05A.jpg" alt="Qantas plane getting towed"/>
-	<img class="right" src="{{ baseurl }}/assets/img/P001/05B.jpg" alt="planes docked at the airport"/>
+<div class="imageset">
+	<div class="row">
+		<img class="half" src="{{ baseurl }}/assets/luantics/P001/05A.jpg" alt="Qantas plane getting towed"/>
+		<img class="half" src="{{ baseurl }}/assets/luantics/P001/05B.jpg" alt="planes docked at the airport"/>
+	</div>
 </div>
 
 It was a good start with the flight to Brisbane. Time being docked and in the air felt short enough and the food was edible. Maybe the flight experience won’t be so bad this time. *Wrong, so so wrong*. The events that transpired after touching down were nothing but misery. Signage around the airport were minimal and unhelpful to say the least. Getting to the international port was such a hassle travelling back and forth, between the differing sectors.
@@ -103,15 +117,19 @@ WHAT?! This could not be happening. Repeated tries still resulted in many denial
 
 :clap: Okay! Truly finished now and it was high time we bounced. The plan was to leave at 19:30<sub>ish…</sub> we promptly left ~2 hours later… Not including transit time to our accommodation for the night <sub>(cue another hour)</sub>.
 
-<img src="{{ baseurl }}/assets/img/P001/06.jpg" alt="person staring blankly"/>
-<img src="{{ baseurl }}/assets/img/P001/07.jpg" alt="two people on their phones"/>
-<img src="{{ baseurl }}/assets/img/P001/08.jpg" alt="person clutching onto a handle"/>
+<div class="imageset">
+	<img src="{{ baseurl }}/assets/luantics/P001/06.jpg" alt="person staring blankly"/>
+	<img src="{{ baseurl }}/assets/luantics/P001/07.jpg" alt="two people on their phones"/>
+	<img src="{{ baseurl }}/assets/luantics/P001/08.jpg" alt="person clutching onto a handle"/>
+</div>
 
 :fast_forward: to Emblem Hostel. This night was similar to my first night in Japan. It was late in the night, rain was drizzling down and we were a little lost. The receptionists were friendly and communicated superbly	. The hostel has glowing reviews but I was still surprised how nice the facilities were <sub>(hello, again my beloved Japanese toilets <3)</sub>. As nice as it was, it didn’t come without its faults to consider. The hostel is pretty far from the hustle and bustle of Tokyo’s popular districts and if you’re travelling solely by JR, there aren’t any lines to benefit from. Although, the value for money is incredible and definitely outweighs the <sub>minor</sub> cons.
 
 It was well past my dinnertime and despite having very little food in me, I was surprisingly getting on well. :raised_hands: Props to me. Prior to our departure, I made it my mission to find the nearest CoCo Ichibanya branch. It’s been too long and I needed my fix. Now this certain branch didn’t have a lot of information regarding its operating hours and whether its menu had the veg option (for our dear friend Carolyn). It was gonna be a 10min wet walk and I wasn’t particularly keen on arriving at a closed shop. After weaving through the empty side streets, the beautiful curry plate sign was visible far in the distance. My eyes lit up as bright as the sign and next thing you know, I was at the front door in a matter of seconds. Still open? Check. Had the veg menu? Cheeeck. The pains and sorrows of the day were washed away with spoonful after spoonful of that rich delicious curry. The pearly white rice (Japanese rice = best rice) bathing in an aromatic curry and topped with a crispy succulent tonkatsu was just divine. It was good to be back.
 
-<img src="{{ baseurl }}/assets/img/P001/09.jpg" alt="person eating salad"/>
+<div class="imageset">
+	<img src="{{ baseurl }}/assets/luantics/P001/09.jpg" alt="person eating salad"/>
+</div>
 
 That concluded the main events of the day. We returned to knock out “early” to be ready for the new day and travels ahead. Falling asleep was a breeze if you compound no sleep 24hrs before and the comfort of a proper bed.
 
