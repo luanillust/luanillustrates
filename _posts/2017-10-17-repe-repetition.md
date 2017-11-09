@@ -2,7 +2,7 @@
 layout: post
 number: "002"
 title: "JPN Day 02: Repe-Repetition"
-action: posted
+action: Posted
 datec: 16.10.2017
 header-img: /assets/luantics/P002/P002banner.jpg
 categories:
@@ -10,7 +10,7 @@ categories:
   - Travel
 ---
 
-2016年 12月 13日 (水) 
+2016年 12月 14日 (水)
 
 <sup><sup><sup>zzzt</sup></sup><sup>zzzt</sup>zzzt~</sup> Underenath the pillow rang a suffocated alarm waking me up. Everything had to be discrete. It was five in the morning after all and we had to keep our stranger roomie undisturbed from…us <sub>(ultimately, only Carolyn).</sub> Carolyn and I had to channel our inner ninja and get out quickly and quietly. All of which Carolyn failed to do :unamused:<sub><sub>jk~</sub></sub>.
 

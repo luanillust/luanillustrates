@@ -2,7 +2,7 @@
 layout: post
 number: "001"
 title: "JPN Day 01: Sayonara Australia, G'day Japan"
-action: posted
+action: Posted
 datec: 16.10.2017
 header-img: /assets/luantics/P001/P001banner.jpg
 categories:

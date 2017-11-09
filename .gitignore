@@ -24,9 +24,9 @@ Temporary Items
 #jekyll site
 _site
 site
-assets/img/P001
-assets/img/P002
-assets/luantics
+assets/luantics/P001
+assets/luantics/P002
+assets/luantics/P003
 
 ### Sass ###
 .sass-cache
