@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 910 707">
+  <path fill="none" stroke="#a8ffd0" stroke-width="100" stroke-miterlimit="10" d="M43.3 375.5l246 249L869 47.5" class="tick"/>
+  <style>
+    .tick {
+      stroke-dasharray: 1169 1171;
+      stroke-dashoffset: 1170;
+      animation: tick_draw 1000ms ease-out 0ms forwards;
+    }
+
+    @keyframes tick_draw {
+      100% {
+        stroke-dashoffset: 0;
+      }
+    }
+
+    @keyframes tick_fade {
+      0% {
+        stroke-opacity: 1;
+      }
+
+      93% {
+        stroke-opacity: 1;
+      }
+
+      100% {
+        stroke-opacity: 0;
+      }
+    }
+  </style>
+</svg>
