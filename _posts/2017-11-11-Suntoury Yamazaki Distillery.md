@@ -3,7 +3,7 @@ layout: post
 number: "003"
 title: "JPN Day 03: Suntoury Yamazazki Distillery"
 action: Posted
-datec: 10.11.2017
+datec: 11.11.2017
 header-img: /assets/luantics/P003/P003banner.jpg
 categories:
   - Japan

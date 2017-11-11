@@ -3,7 +3,7 @@ layout: post
 number: "002"
 title: "JPN Day 02: Repe-Repetition"
 action: Posted
-datec: 16.10.2017
+datec: 20.10.2017
 header-img: /assets/luantics/P002/P002banner.jpg
 categories:
   - Japan
