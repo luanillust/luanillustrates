@@ -3,7 +3,7 @@ layout: post
 number: "004"
 title: "JPN Day 04: Kyotomizu-dera, Kinkaku-ji, Kurama"
 action: Posted
-datec: 16.11.2017
+datec: 17.11.2017
 header-img: /assets/luantics/P004/P004banner.jpg
 categories:
   - Japan
