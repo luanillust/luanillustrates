@@ -15,7 +15,34 @@
         <article class="post-content">
           {{ content | emojify }}
         </article>
+        <div class="sequential-posts">
+          <div class="previous">
+          {% if page.previous.url %}
+            <a href="{{page.previous.url | prepend: site.baseurl}}">
+              <i class="fa fa-chevron-left" aria-hidden="true"></i>
+              <div>
+                 <span class="blog-post-title">{{ page.previous.title }}</span>
+                 <span class="link-description">Previous Post</span>
+              </div>
+            </a>
+          {% endif %}
+          </div>
+
+          <div class="next">
+          {% if page.next.url %}
+            <a href="{{page.next.url | prepend: site.baseurl}}">
+              <i class="fa fa-chevron-right" aria-hidden="true"></i>
+              <div>
+                 <span class="blog-post-title">{{ page.next.title }}</span>
+                 <span class="link-description">Next Post</span>
+              </div>
+            </a>
+          {% endif %}
+          </div>
+        </div>
       </div>
+
+
 
     </div>
     {% include sidebar.html %}

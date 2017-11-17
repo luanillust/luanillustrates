@@ -7,6 +7,8 @@ align overlay menu button
 mobile about page
 delay loading pages from splash menu
 
-blog urls
-left/right images blog
-center images
+
+blog lightbox gallery
+blog progress bar
+photography pdf
+esc close mobile menu

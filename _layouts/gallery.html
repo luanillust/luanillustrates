@@ -10,11 +10,14 @@ layout: page
           <li class="gallery-items" href="#{{ gallery.id }}-{{ forloop.index }}">
             <div class="thumb" style="background-image: url({{ site.baseurl }}/{{ gallery.imagefolder }}/{{ image.thumb }})">
             </div>
-            {% if image.title or image.text %}
+            <!-- {% if image.title or image.text %}
               <div class="description">
                 {% if image.title %} <h2>{{ image.title }}</h2> {% endif %}
                 {% if image.text %} <h3>{{ image.text }}</h3> {% endif %}
               </div>
+            {% endif %} -->
+            {% if image.title %}
+              <div class="description"><h2>{{ image.title }}</h2></div>
             {% endif %}
           </li>
         {% endfor %}

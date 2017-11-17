@@ -1,0 +1,75 @@
+---
+layout: page
+title: LUANtics
+description: The official luanillustrates blog page. Here, I share various aspects of my life. Including, but not limited to travels, events, sketches etc. I don't have a schedule, but will try my best to post updates every so often.
+---
+<div class="blog-blurb">
+  <p>Welcome to my antics (<em>LUAN</em>tics :smirk:)! Here, I share various aspects of my life. Including, but not limited to travels, events, sketches etc. I don't have a schedule, but will try my best to post updates every so often.</p>
+</div>
+
+{% if paginator.page %}
+  {% assign offset = paginator.page | minus: 1 | times: paginator.per_page %}
+  {% assign current_page = paginator.page %}
+{% else %}
+  {% assign offset = 0 %}
+  {% assign current_page = 1 %}
+{% endif %}
+{% assign totalPosts = site.posts | size %}
+{% assign postsLoaded = site.paginate | plus: offset %}
+
+<div id="blog-list">
+  <ul data-currentPage="{{ current_page }}" data-totalPages="{{ paginator.total_pages }}" data-url="{{ site.baseurl }}/luantics/">
+    {% for post in paginator.posts %}
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <li class="blog-item" style="background-image: url('{{ site.baseurl }}{{ post.header-img }}')">
+          <div class="post-title">
+            {{ post.number }}: {{ post.title }}
+          </div>
+        </li>
+      </a>
+    {% endfor %}
+  </ul>
+<!--   {% if postsLoaded < totalPosts %}
+    <button class="load-more-posts fill">Load More Posts</button>
+  {% endif %} -->
+</div>
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous button">Newer</a>
+  {% else %}
+    <span disabled class="previous button">Newer</span>
+  {% endif %}
+  <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next button">Older</a>
+  {% else %}
+    <span disabled class="next button">Older</span>
+  {% endif %}
+</div>
+
+<!-- {% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <em>{{ page }}</em>
+    {% elsif page == 1 %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %} -->

@@ -10,11 +10,17 @@ social:
 # Build settings
 host: 0.0.0.0
 port: 3000
+destination: site
 markdown: kramdown
 permalink: /luantics/:slug/
-destination: site
 
-plugins: ["jekyll-emoji"]
+paginate: 7
+paginate_path: /luantics/:num/
+
+gems:
+  - "jekyll-emoji"
+  - "jekyll-paginate"
+
 emoji:
   format: emojione-svg       # default html
   ascii: false               # default false
