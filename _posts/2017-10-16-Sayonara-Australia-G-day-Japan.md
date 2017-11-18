@@ -140,4 +140,4 @@ It was well past my dinnertime and despite having very little food in me, I was 
 
 That concluded the main events of the day. We returned to knock out “early” to be ready for the new day and travels ahead. Falling asleep was a breeze if you compound no sleep 24hrs before and the comfort of a proper bed.
 
-Thanks for reading and join me next time as we <a href="{{ baseurl }}{% post_url 2017-10-20-repe-repetition %}">embarked for Kyoto</a>.
+Thanks for reading and join me next time as we embarked for Kyoto.
