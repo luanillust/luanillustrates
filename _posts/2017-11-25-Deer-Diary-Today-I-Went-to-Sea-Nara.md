@@ -52,7 +52,7 @@ Following the blue dotted road, we reached the secluded attraction that was <a h
 	<img src="{{ baseurl }}/assets/luantics/P006/10.jpg" alt="deer walking among humans"/>
 </div>
 
-While Yoshikien is free, the adjacent garden of <a href="https://www.google.com.au/maps/place/Isuien+Garden/@34.6855566,135.8350219,17z/data=!3m1!4b1!4m5!3m4!1s0x6001398fe391f25b:0xd7d5ae2d36accf55!8m2!3d34.6855566!4d135.8372106?hl=en">Isuien</a> is not, with admission of ¥900. Not that it mattered as its doors closed for winter. Speaking of winter, there wasn’t much blooming in the garden but that didn't make it any less beautiful. Like Kofukuji, the garden was nice and empty with a calming sense of peace.
+While Yoshikien is free, the adjacent garden of <a href="https://www.google.com.au/maps/place/Isuien+Garden/@34.6855566,135.8350219,17z/data=!3m1!4b1!4m5!3m4!1s0x6001398fe391f25b:0xd7d5ae2d36accf55!8m2!3d34.6855566!4d135.8372106?hl=en">Isuien</a> is not, with admission of ¥900. Not that it mattered as its doors closed for winter. Speaking of, there wasn’t much blooming in the garden but that didn't detract from the beauty. Like Kofuku-ji, the garden was nice and empty with a calming sense of peace <sup>ruined by Carolyn.</sup>
 
 <div class="imageset">
 	<div class="row">
@@ -70,7 +70,7 @@ While Yoshikien is free, the adjacent garden of <a href="https://www.google.com.
 	<img src="{{ baseurl }}/assets/luantics/P006/14.jpg" alt="house at Yoshikien"/>
 </div>
 
-Leaving the peaceful gardens brought us back to a populated <a href="https://www.google.com.au/maps/place/T%C5%8Ddai-ji/@34.6889851,135.8376271,17z/data=!3m1!4b1!4m5!3m4!1s0x600139907a0876dd:0xf890ac3f9dd53c8f!8m2!3d34.6889851!4d135.8398158?hl=en">Todai-ji</a>, another temple ground. And by chance, my hawk eyes spotted some familiar faces within the populated crowds (the guys I left behind). Regrouped, we wandered the vast grounds... to play with deer. Why I didn't proceed past the paywalls is beyond me.
+Leaving the peaceful gardens brought us back to a populated <a href="https://www.google.com.au/maps/place/T%C5%8Ddai-ji/@34.6889851,135.8376271,17z/data=!3m1!4b1!4m5!3m4!1s0x600139907a0876dd:0xf890ac3f9dd53c8f!8m2!3d34.6889851!4d135.8398158?hl=en">Todai-ji</a>, another temple ground. In the midst of tending to ourselves, my hawk eyes spotted some familiar faces within the populated crowds (the guys left behind). Regrouped, we wandered the vast grounds... to play with deer. Why I didn't proceed past the paywalls is beyond me.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P006/15.jpg" alt="beautiful light shining on a golden orange tree"/>
