@@ -23,7 +23,7 @@ While I marched on ahead, ready to leave the station, I didn't realise that the 
 		<img src="{{ baseurl }}/assets/luantics/P005/01A.jpg" alt="cute girl staring blankly at camera" class="half"/>
 		<img src="{{ baseurl }}/assets/luantics/P005/01B.jpg" alt="cute hotty boy busy on the phone" class="half"/>
 	</div>
-	<img src="{{ baseurl }}/assets/luantics/P005/02.jpg" alt="inside the restaurant of Daruma Lucua Osaka" class="half"/>
+	<img src="{{ baseurl }}/assets/luantics/P005/02.jpg" alt="inside the restaurant of Daruma Lucua Osaka"/>
 </div>
 
 Here, you ordered through the touch menu found in the booth and, much to my surprise, the food was delivered on a conveyor belt! It was only when I heard the whirring of the machinery, did I realise that my tray of fried ~~obesity~~ heaven arrived.
