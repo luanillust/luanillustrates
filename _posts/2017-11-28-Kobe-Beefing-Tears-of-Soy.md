@@ -3,7 +3,7 @@ layout: post
 number: "007"
 title: "JPN Day 07: Kobe Beefing Tears of Soy"
 action: Posted
-datec: 1.12.2017
+datec: 28.11.2017
 header-img: /assets/luantics/P007/P007banner.jpg
 categories:
   - Japan
