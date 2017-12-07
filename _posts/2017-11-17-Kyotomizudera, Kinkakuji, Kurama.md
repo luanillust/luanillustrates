@@ -5,6 +5,7 @@ title: "JPN Day 04: Kyotomizu-dera, Kinkaku-ji, Kurama"
 action: Posted
 datec: 17.11.2017
 header-img: /assets/luantics/P004/P004banner.jpg
+description: Day 4 in my 2016 Japan trip. We travel all over Kyoto to visit Kiyomizu-dera, Kinkaku-ji and Kurama.
 categories:
   - Japan
   - Travel

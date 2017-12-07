@@ -5,6 +5,7 @@ title: "JPN Day 07: Kobe Beefing Tears of Soy"
 action: Posted
 datec: 28.11.2017
 header-img: /assets/luantics/P007/P007banner.jpg
+description: Day 7 in my 2016 Japan trip. Crossing the vast lands, we end up in Kobe for some tasty high grade beef.
 categories:
   - Japan
   - Travel

@@ -5,6 +5,7 @@ title: "JPN Day 03: Suntoury Yamazazki Distillery"
 action: Posted
 datec: 11.11.2017
 header-img: /assets/luantics/P003/P003banner.jpg
+description: Day 3 in my 2016 Japan trip. Travelling to the outskirts of Kyoto, we visit the Suntory Yamazaki Distillery, known for its whiskey. 
 categories:
   - Japan
   - Travel

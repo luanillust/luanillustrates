@@ -5,6 +5,7 @@ title: "JPN Day 06: Deer Diary... Today, I Went to Sea (&) Nara"
 action: Posted
 datec: 25.11.2017
 header-img: /assets/luantics/P006/P006banner.jpg
+description: Day 6 in my 2016 Japan trip. Today's schedule was packed, with a visit to Nara and the Osaka Aquarium Kaiyukan.
 categories:
   - Japan
   - Travel

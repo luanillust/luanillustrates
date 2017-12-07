@@ -1,10 +1,11 @@
 ---
 layout: post
 number: "005"
-title: "JPN Day 05: Luan & Friends Go to Osakastle"
+title: "JPN Day 05: Luan & Friends Go to Osaka Castle"
 action: Posted
 datec: 19.11.2017
 header-img: /assets/luantics/P005/P005banner.jpg
+description: Day 5 in my 2016 Japan trip. Having left Kyoto, we arrived in Osaka for a joyous day at Osaka Castle.
 categories:
   - Japan
   - Travel

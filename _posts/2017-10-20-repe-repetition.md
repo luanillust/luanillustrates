@@ -5,6 +5,7 @@ title: "JPN Day 02: Repe-Repetition"
 action: Posted
 datec: 20.10.2017
 header-img: /assets/luantics/P002/P002banner.jpg
+description: Day 2 in my 2016 Japan trip. The first official day of Japan travels and we spend it at the Arashiyama Bamboo Groves and Fushimi Inari-Taisha.
 categories:
   - Japan
   - Travel

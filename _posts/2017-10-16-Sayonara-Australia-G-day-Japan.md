@@ -5,6 +5,7 @@ title: "JPN Day 01: Sayonara Australia, G'day Japan"
 action: Posted
 datec: 16.10.2017
 header-img: /assets/luantics/P001/P001banner.jpg
+description: Day 1 in my 2016 Japan trip. Leaving the comfort of home in Adelaide, we travel out to Tokyo for even more comfort and fun.
 categories:
   - Japan
   - Travel
