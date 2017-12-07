@@ -3,7 +3,7 @@ layout: post
 number: "009"
 title: "JPN Day 09: Date Day at Himeji"
 action: Posted
-datec: 10.12.2017
+datec: 7.12.2017
 header-img: /assets/luantics/P009/P009banner.jpg
 description: Day 9 in my 2016 Japan trip. Travelling to Himeji with Carolyn, I explore the beautiful Himeji Castle and Koko-En.
 categories:
