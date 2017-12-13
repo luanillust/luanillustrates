@@ -13,7 +13,7 @@ categories:
 
 2016年 12月 22日 (木)
 
-It wasn’t too late of a start today, the slightest improvement. Today, we were travelling westward to Hiroshima. Before making a <a href="https://youtu.be/r0aMnYRRPZc?t=52s">U-Turn</a> heading eastward... but stopping a fraction of the way at an island called <a href="https://www.google.com.au/maps/place/%C5%8Ckunoshima/@34.3090744,132.9892282,16z/data=!3m1!4b1!4m5!3m4!1s0x3550453047d04345:0x48c667e9a04c14fa!8m2!3d34.3113285!4d132.9921762?hl=en">Okunoshima</a>, or more famously known as “Rabbit Island”. 
+It wasn’t too late of a start today, a slight improvement. Today, we travelled westward to Hiroshima. Before making a <a href="https://youtu.be/r0aMnYRRPZc?t=52s">U-Turn</a> heading eastward... but stopping a fraction of the way at an island called <a href="https://www.google.com.au/maps/place/%C5%8Ckunoshima/@34.3090744,132.9892282,16z/data=!3m1!4b1!4m5!3m4!1s0x3550453047d04345:0x48c667e9a04c14fa!8m2!3d34.3113285!4d132.9921762?hl=en">Okunoshima</a>, or more famously known as “Rabbit Island”. 
 
 <div class="imageset">
 	<div class="row">
@@ -22,7 +22,7 @@ It wasn’t too late of a start today, the slightest improvement. Today, we were
 	</div>
 </div>
 
-As we weren’t stopping by our bnb, we found ourselves a <a href="http://www.chugoku-jrbus.co.jp/contents/tebura_hiroshima/en/">luggage room owned by the Chugoku JR Bus Company</a>. Inside, were the sweetest ladies I’ve come across. We were talking and they informed us that they closed at 18:00. I thought it was all right and proceeded to hand over our luggage. Before entering the luggage room, I had been calculating the time it would take to get us to Okunoshima and back. Even after, I was still working it out and it was at that moment I realised my small blunder <sub><sub>(of course...)</sub></sub> :sweat_smile:. The moment we stepped in, the sweetest ladies already begun retrieving our bags and getting our money back. The _best_ :blush:. 
+As we weren’t stopping by our bnb, we found ourselves a <a href="http://www.chugoku-jrbus.co.jp/contents/tebura_hiroshima/en/">luggage room owned by the Chugoku JR Bus Company</a>. Inside, were the sweetest ladies I’ve come across. We were talking and they informed us that they closed at 18:00. I thought it was all right and proceeded to hand over our luggage. Before entering the luggage room, I had been calculating the time it would take to get us to Okunoshima and back. Even after, I was still working it out and it was at that moment I realised my small blunder <sub><sub>(of course...)</sub></sub> :sweat_smile:. The moment we stepped in, the ladies already began retrieving our bags and getting our money back. The _best_ :blush:. 
 
 Thank to my little mishap, we were rushing to another luggage room that would accommodate us, as directed by the kind ladies. This luggage room is hidden away towards the back end of the station where commuters normally don't reach. I believe they closed at 20:00 and costed ¥400.
 
@@ -37,7 +37,7 @@ Hiroshima to Osaka takes about 2hrs on the shinkansen. Travelling a fifth of tha
 
 Arriving in Hiroshima, the weather wasn’t great; the gloomy skies were coming down with rain and the humidity felt yuck. Coming off the train at Tadano-Umi station, it was still very much the same. Despite that, there were still plenty of people wanting to visit the island. 
 
-Tadano-Umi port was a short walk away along some small roads. Arriving at the port, there was a small booth selling rabbit food and merchandise. The ferry tickets aren’t sold there but rather purchased via the vending machine, with our round trip costing ¥620. There wasn’t much information about the ferry timetable online and the one piece I did find wasn't reliable. So here’s one that’s straight from the source.
+Tadano-Umi port was a short walk along some small roads. Arriving at the port, there was a small booth selling rabbit food and merchandise. The ferry tickets aren’t sold there but through the vending machine instead, with our round trip costing ¥620. There wasn’t much information about the ferry timetable online and the one piece I did find wasn't reliable. So here’s one that’s straight from the source.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P010/P010JPND1003.jpg" alt="timetable for ferry at tadano umi port">
@@ -55,8 +55,7 @@ Tadano-Umi port was a short walk away along some small roads. Arriving at the po
 	</div>
 </div>
 
-With an uneventful 15mins, we reached land and young Wilson lit up like a Christmas tree as we saw the horde of bunnies rush to us. There was soooo so many… and with this innumerable amount of bunnies meant triple the amount of excrement and half of the excitement (not for Wil, he was over the moon). It was a minefield of the little turd caltrops.
-
+With an uneventful 15mins, we reached land and young Wilson lit up like a Christmas tree as we saw the horde of bunnies rush to us. There was soooo so many… and with this innumerable amount of bunnies meant an exponential amount of excrement and an inversely proportional amount of excitement (not Wil, he was over the moon).
 <div class="imageset">
 	<div class="row">
 		<img src="{{ baseurl }}/assets/luantics/P010/P010JPND1013A.jpg" alt="group of rabbits reaching for person's hand full of yummy food" class="one-third"/>
@@ -74,7 +73,7 @@ With an uneventful 15mins, we reached land and young Wilson lit up like a Christ
 	</div>
 </div>
 
-Tiptoeing around the island, we made it up to this museum type building before making another  <a href="https://youtu.be/r0aMnYRRPZc?t=1m04s">U-Turn</a> back for the ferry. The island's attractions, barring the bunnies, seemed lacklustre and the wet weather didn't help us stay any longer. The rabbits though... they are so freaking adorable, especially the teeny-weeny babies. Every time I tried to photograph the little ones, one of the older bunnies would come up and try to hog the limelight :expressionless:.
+Tiptoeing around the minefield of poop caltrops, we made it up to this museum type building before making another  <a href="https://youtu.be/r0aMnYRRPZc?t=1m04s">U-Turn</a> back for the ferry. The island's attractions, barring the bunnies, seemed lacklustre and the wet weather didn't help us stay any longer. The rabbits though... they are so freaking adorable, especially the teeny-weeny babies. Annoyingly, every time I tried to photograph the little ones, the older bunnies would come up and try to hog the limelight :expressionless:.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P010/P010JPND1021.jpg" alt="lady in red coat reaches into backpack for food to feed bunnies">
@@ -103,15 +102,15 @@ Tiptoeing around the island, we made it up to this museum type building before m
 	<img src="{{ baseurl }}/assets/luantics/P010/P010JPND1032.jpg" alt="boy ecstatic to be a rabbit with fake bunny ears machine">
 </div>
 
-:fast_forward: it's very late, we’ve collected our luggage and now waiting at the station. Hiroshima’s public transport is predominantly tram based and booooy do I hate it. This one first time experience was enough to ruin it for _life_. 
+:fast_forward: it's very late, we’ve collected our luggage and were now waiting at the station. Hiroshima’s public transport is predominantly tram based and booooy do I <a href="https://youtu.be/NB5jyYD2WEw?t=24s">_hate_</a> it. This one first time experience was enough to ruin it for _life_. 
 
-Our bnb was only reachable by the #1 tram. At the stop, the #2 tram rocked up and stationed itself. People were getting on and off, the usual. Except... it stationed itself for another 15+ minutes. And people were still getting off... only to get back on... and then off again... 🤨. I could clearly see our #1 in the distance waiting to pull up. More minutes pass and more passengers come and go :triumph:.
+Our bnb was only reachable by the #1 tram. At the stop, the #2 tram rocked up and stationed itself. People were getting on and off, the usual process. Except... it stationed itself for another 15+ minutes. And people were still getting off... only to get back on... and then off again... 🤨. I could clearly see our #1 in the distance waiting to pull up. More minutes pass and more passengers come and go :triumph:.
 
-When the #1 tram _finally_ docked, we had to sit through more idiots coming and going for another ten or so minutes before actually moving. Huzzah! Then we stopped... we moved like five metres from where we were :unamused:. What was supposed to be a 20 min trip turned into an hour long F U.
+When the #1 tram _finally_ docked, we had to sit through more idiots coming and going for another ten or so minutes before actually moving. Only to stop... we moved less than five metres from where we were :unamused:. What was supposed to be a 20 min trip turned into an hour long F U.
 
-As soon as we made it to the bnb, we <sup>(read: I)</sup> had to bolt off  to make it to <a href="https://www.google.com.au/maps/place/Nagata-ya/@34.3942204,132.4522963,17z/data=!3m1!4b1!4m5!3m4!1s0x355aa20d1ba3a539:0x54a7e2f3d14117e5!8m2!3d34.394216!4d132.454485?hl=en">Nagata-Ya Okonomiyaki</a> before doors closed. 
+As soon as we made it to the bnb, we <sup>(read: I)</sup> bolted off  to make it to <a href="https://www.google.com.au/maps/place/Nagata-ya/@34.3942204,132.4522963,17z/data=!3m1!4b1!4m5!3m4!1s0x355aa20d1ba3a539:0x54a7e2f3d14117e5!8m2!3d34.394216!4d132.454485?hl=en">Nagata-Ya Okonomiyaki</a> before doors closed. Spoiler alert: we made it.
 
-Securing a table grill side, we were able to watch the chefs prepare the okonomiyaki. Tactically getting our stomachs grumbling with the mouth-watering display of cooking.
+Securing a table grill side, we were able to watch the chefs prepare the okonomiyaki. Strategically getting our stomachs grumbling with the mouth-watering display of cooking.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P010/P010JPND1033.jpg" alt="cooks converse amongst themselves as okonomiyaki cooks"/>
@@ -135,7 +134,7 @@ Securing a table grill side, we were able to watch the chefs prepare the okonomi
 	</div>
 </div>
 
-The food was <a href="https://youtu.be/AAbokV76tkU?t=38s">fantastic</a>. With the range of okonomiyaki available, we were spoilt for choice. Portions were appropriately sized and each mouthful was packed with a delicious flavour punch. Pricing is in the cheapish to mid-range and is well worth it. 
+The food was <a href="https://youtu.be/AAbokV76tkU?t=38s">fantastic</a>. With the range of okonomiyaki available, we were spoilt for choice. Portions were appropriately sized, textures were great and each mouthful was packed with a delicious flavour punch. Pricing is in the cheapish to mid-range and is well worth it. 
 
 <div class="imageset">
 	<div class="row">
@@ -145,8 +144,8 @@ The food was <a href="https://youtu.be/AAbokV76tkU?t=38s">fantastic</a>. With th
 	<img src="{{ baseurl }}/assets/luantics/P010/P010JPND1041.jpg" alt="boy smiling at the satisfaction of the meal he just had"/>
 </div>
 
-Returning to the bnb, we were able to fully appreciate its entire glory. Similar to the Kyoto penthouse bnb, we had an entire floor to ourselves. Rooms are spacious and are fully decked out with just about everything you’d need for a stay. There’s even a _TALKING_ REFRIGERATOR. Located in the heart of the city, it is an incredible stay (for large groups). Interested? <a href="https://www.airbnb.com.au/rooms/14378370">Find it here</a>.
+Returning to the bnb, we were able to fully appreciate its entire glory. Similar to the Kyoto penthouse bnb, we had an entire floor to ourselves. Multiple rooms with ample space, bathroom fully decked out with just about everything a hotel would have and a lovely kitchen and dining space - it was glorious. There’s even a _TALKING_ REFRIGERATOR. Located in the heart of the city, it is an incredible stay (for large groups) and would wholeheartedly recommend staying <a href="https://www.airbnb.com.au/rooms/14378370">there</a>.
 
 Spending the night in the comfort of the ~~bnb~~ small house, we enjoyed each other’s company and the <a href="https://www.youtube.com/watch?v=Gl-58cbxioI">amazing wonders of Japanese television</a>. Thanks for reading and join me next time for our visit to Miyajima and our departure for Nagoya.
 
-Itching for another hit of adorableness? Visit <a href="http://www.capturedbycarolyn.com/blog/2017/japan-diary-hiroshima-part-1">Carolyn's post</a> for more of the little cuties.
+Itching for another hit of adorableness? Hop over to <a href="http://www.capturedbycarolyn.com/blog/2017/japan-diary-hiroshima-part-1">Carolyn's post</a> for more cuteness <sup>(the bunnies, not me)</sup>.
