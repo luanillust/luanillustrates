@@ -128,4 +128,4 @@ As the night came to an end, so did our Osaka leg. Tomorrow, we go further south
 	<img src="{{ baseurl }}/assets/luantics/P009/P009JPND0933.jpg" alt="group of friends posing cutely in peace sign"/>
 </div>
 
-Too short and sweet of a post? Go visit <a href="http://www.capturedbycarolyn.com/blog/2017/himejipsyche">Carolyn's po-</a> oh wait... there is none :laughing:
+Too short and sweet of a post? Go visit <a href="http://www.capturedbycarolyn.com/blog/2017/himejipsyche">Carolyn's po-</a> oh wait... there is none :laughing:. Nah, it's <a href="http://www.capturedbycarolyn.com/blog/2017/japan-diary-usj-himeji">here</a> (scroll to the bottom).

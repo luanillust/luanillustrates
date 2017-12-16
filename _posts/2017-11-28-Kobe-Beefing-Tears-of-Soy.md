@@ -211,3 +211,5 @@ To this day, I haven’t needed to see a physio thanks to Alex having my back. B
 </div>
 
 Returning to Osaka, we called it an “early” night. Charging our batteries for the long day ahead at Universal Studios Japan. Thanks for reading and join me next time for all the thrills and spills.
+
+Can you believe that's the end? It doesn't have to be. Visit Carolyn's <a href="http://www.capturedbycarolyn.com/blog/2017/japan-diary-kobe">post here</a> to continue the Japanese joy.
