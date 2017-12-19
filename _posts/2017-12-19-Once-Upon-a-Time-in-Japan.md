@@ -96,7 +96,7 @@ I found myself at the tables of <a href="https://www.google.com.au/maps/place/%E
 	</div>
 </div>
 
-Closing the last night in Nagoya was a quick trip to the shopping strip and an unwanted return to the bnb... Having barely scraped the surface of what Nagoya had to offer, we had to move on. Up next, we hit up Hakuba to hit up the slopes. Thanks for reading and join me as next time as I tumble down the slope of embarrassment. 
+Closing the last night in Nagoya was a quick trip to the shopping strip and an unwanted return to the bnb... Having barely scraped the surface of what Nagoya had to offer, we had to move on. Up next, we hit up Hakuba to hit up the slopes. Thanks for reading and join me next time as I tumble down the slope of embarrassment. 
 
 <div class="imageset">
 	<div class="row">
