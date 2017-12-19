@@ -46,10 +46,10 @@ Coming off the bus was like stepping into a <a href="https://youtu.be/J9wqjEBHmM
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1210.jpg" alt="an old sighboard, a rosetta stone like rock and an info pole"/>
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1211.jpg" alt="group of friends are fascinated by a bear bell"/>
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1212.jpg" alt="group of friends still amused by the bear bell"/>
-	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1213.jpg" alt="a small rest area made of wood"/>
+	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1213.jpg" alt="a small rest area consisting of wood"/>
 	<div class="row">
 		<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1214A.jpg" alt="handsome man sips tea in stereotypical asian way" class="half"/>
-		<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1214B.jpg" alt="handsome cannot contain his laughter" class="half"/>
+		<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1214B.jpg" alt="handsome man cannot contain his laughter" class="half"/>
 	</div>
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1215.jpg" alt="a bear bell to ward away wild bears during the hike"/>
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1216.jpg" alt="small stream flowing down the mountain trail"/>
@@ -64,15 +64,15 @@ Coming off the bus was like stepping into a <a href="https://youtu.be/J9wqjEBHmM
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1222.jpg" alt="desolate road at the town of Tsumago"/>
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1223.jpg" alt="taking a look at the different souvenirs"/>
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1224.jpg" alt="older man steaming some buns in an Adidas cap"/>
-	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1225.jpg" alt="a beautifully untouched town of Tsumago"/>
+	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1225.jpg" alt="the beautifully preserved town of Tsumago"/>
 </div>
 
 The hike was a fantastic time with: stunning sceneries, rambunctious ringing of bear bells echoing through the mountain, good friends, minimal tourists and finding fat stacks of yen. And as much effort it takes to make your way out, the payout is very much worth it.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1226.jpg" alt="girl on the phone while waiting for the train to arrive"/>
-	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1227.jpg" alt="boy in beanie looks down at invisible phone"/>
-	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1228.jpg" alt="friends laughing at a joke made"/>
+	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1227.jpg" alt="boy in beanie looks down"/>
+	<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1228.jpg" alt="friends sniggering at a joke made"/>
 	<div class="row">
 		<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1229A.jpg" alt="girl posing the peace sign" class="half"/>
 		<img src="{{ baseurl }}/assets/luantics/P012/P012JPND1229B.jpg" alt="boy and girl strike the peace pose" class="half"/>
