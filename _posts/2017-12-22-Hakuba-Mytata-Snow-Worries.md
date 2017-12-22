@@ -15,7 +15,7 @@ categories:
 
 <a href="https://youtu.be/E8gmARGvPlI?t=18s">Last Christmas</a>, I was baking in the sweltering hot heat of Australia. This year, to save me from tears, I submitted myself to the cold climate of Japan. Oh noooo… _how terrible_...
 
-Coming off the normie train, we waited for a charming French man to come collect us. Rocking up in a mini-van, we sped off to our accommodation. I looked to <a href="http://hakubalodge.com/">Hakuba Snowdrift Lodge</a> for our skiing needs, based on word of mouth of a friend. And… I can’t say that I would revisit if I ever returned. That's not to say that it's a terrible place or anything; it's just not for me.
+Coming off the normie train, we waited for a charming French man to come collect us. Rocking up in a mini-van, we sped off to our accommodation. I looked to <a href="http://hakubalodge.com/">Hakuba Snowdrift Lodge</a> for our snowy needs, based on word of mouth of a friend. And… I can’t say that I would revisit if I ever returned. That's not to say that it's a terrible place or anything; it's just not for me.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P013/P013JPND1301.jpg" alt="welcome sign outside Hakuba station"/>
@@ -23,7 +23,7 @@ Coming off the normie train, we waited for a charming French man to come collect
 
 The staff are great, the in-house food was fantastic and the community couldn’t be any better. My gripes were that: the lodge wasn't the cleanest, a handful of bugs ran wild in the room and the hygienic facilities were lacking. Adding to that, the place was a fair distance away from the slopes, but the free buses made up for that -ish.
 
-Staff weren't available until later for the required orientation. This left us to loosely roam around; it was a lot of sparseness. Returning to the lodge, I was pleasantly surprised to learn that a bunch of them journeyed from Adelaide! It seemed that everyone we bumped into was Australian: the gear hire guys, staff at _both_ of the lodges and the countless ones skiing alongside us. It was like never leaving home, a mini Australia if you will.
+Staff weren't available until later, for the required orientation. This left us to loosely roam around the sparse encompassing area. Returning to the lodge, I was pleasantly surprised to learn that a bunch of the staff journeyed from Adelaide! It seemed that everyone we bumped into was Australian: the gear hire guys, staff at _both_ of the lodges and the countless ones skiing alongside us. It was like never leaving home, a mini Australia if you will.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P013/P013JPND1302.jpg" alt="snowy mountain range at Hakuba"/>
@@ -54,7 +54,7 @@ Later that Christmas night, we partied like animals (and by we, I mean not me). 
 	<img src="{{ baseurl }}/assets/luantics/P013/P013JPND1311.jpg" alt="guy takes a swig at his pint of beer"/>
 </div>
 
-As the sun ushered in the new day, the guys left for their sole lesson, while the rest of us proceeded straight to the slopes :grimacing:. Up until the cable car ride up, I was feeling fine; though it didn’t take long for the nerves to kick in.
+As the sun ushered in the new day, the guys left for their sole lesson, while the rest of us proceeded straight to the slopes :grimacing:. Up until the cable car ride up, I was feeling unnerved; though it didn’t take long for them to kick in.
 
 <div class="imageset">
 	<div class="row">
@@ -123,7 +123,7 @@ A fair bit of time passed and there still wasn't any sign of them. Sliding about
 	<em><sup>just some "nheh" lunch at a local eatery by the slope</sup></em>
 </div>
 
-Returning to the slopes the next day, I left my camera behind to focus on skiing. That was a <a href="https://youtu.be/46Kv4rBJi68?t=1s">huge mistake</a>... It was as if I became a new person; I couldn’t make it 2 metres without stacking it _hard_. Like a corrupted save file, whatever progress I made yesterday was lost. Making things more embarrassing, I always managed to end up veering towards the ski lifts, where every fall was observable to the skiers/snowboarders and to those swinging above :persevere:. Oh and don’t forget the little groups of kids that would casually woosh pass <sup>_huge_ boost for the ego</sup>.
+Returning to the slopes the next day, I left my camera behind to focus on skiing (a <a href="https://youtu.be/46Kv4rBJi68?t=1s">huge mistake</a>...). It was as if I became a new person; I couldn’t make it 2 metres without stacking it _hard_. Like a corrupted save file, whatever progress I made yesterday was lost. Making things more embarrassing, I always managed to end up veering towards the ski lifts, where every fall was observable to the skiers/snowboarders and to those swinging above :persevere:. Oh and don’t forget the little groups of kids that would casually woosh pass <sup>_huge_ boost for the ego</sup>.
 
 It got so bad that multiple people on multiple occasions stopped to check if I was okay :confounded:. One of the falls was so bad that I just laid there, motionless from the pain - of embarrassment. Yesterday, I was stopping myself with the skis like: / \ and I thought to try and brake like the pros: \ \ to / /. It was ridiculous to think this was going to go well. Lurching forward on my face, I proceeded to roll onto my back and, like a snow angel, slid down the slope...
 
@@ -133,4 +133,4 @@ I barely made 3 runs, while the others went on and on... :cry: Should've snowboa
 	<img src="{{ baseurl }}/assets/luantics/P013/P013JPND1331.jpg" alt="line reachiing outside to go down the cable car"/>
 </div>
 
-The body battering marked the end of our time on the slopes. Bags ready and packed, I holed up in the lodge ready for the sun to shine on the new day. Tomorrow was going to be the start of the Tokyo leg :smiley:. But that also meant the end of the trip… :worried:. Thanks for reading and come along with me next time, as I get my <a href="https://youtu.be/t3ULhmadHkg?t=1m13s">cray on</a>.
+The body battering marked the end of our time on the slopes. Bags ready and packed, I holed up in the lodge ready for the sun to shine on the new Tomorrowbe. day was going to be the start of the Tokyo leg :smiley:. But that also meant the end of the trip… :worried:. Thanks for reading and come along with me next time, as I get my <a href="https://youtu.be/t3ULhmadHkg?t=1m13s">cray on</a>.
