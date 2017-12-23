@@ -123,9 +123,9 @@ A fair bit of time passed and there still wasn't any sign of them. Sliding about
 	<em><sup>just some "nheh" lunch at a local eatery by the slope</sup></em>
 </div>
 
-Returning to the slopes the next day, I left my camera behind to focus on skiing (a <a href="https://youtu.be/46Kv4rBJi68?t=1s">huge mistake</a>...). It was as if I became a new person; I couldn’t make it 2 metres without stacking it _hard_. Like a corrupted save file, whatever progress I made yesterday was lost. Making things more embarrassing, I always managed to end up veering towards the ski lifts, where every fall was observable to the skiers/snowboarders and to those swinging above :persevere:. Oh and don’t forget the little groups of kids that would casually woosh pass <sup>_huge_ boost for the ego</sup>.
+Returning to the slopes the next day, I left my camera behind to focus on skiing (a <a href="https://youtu.be/46Kv4rBJi68?t=1s">huge mistake</a>...). It was as if I became a new person; I couldn’t make it 2 metres without stacking it _hard_. Like a corrupted save file, whatever progress I made yesterday was lost. Making things more embarrassing, I always managed to end up veering towards the ski lifts, where every fall was observable to the skiers/snowboarders and to those travelling above :persevere:. Oh and don’t forget the little groups of kids that would casually woosh pass <sup>_huge_ boost for the ego</sup>.
 
-It got so bad that multiple people on multiple occasions stopped to check if I was okay :confounded:. One of the falls was so bad that I just laid there, motionless from the pain - of embarrassment. Yesterday, I was stopping myself with the skis like: / \ and I thought to try and brake like the pros: \ \ to / /. It was ridiculous to think this was going to go well. Lurching forward on my face, I proceeded to roll onto my back and, like a snow angel, slid down the slope...
+It got so bad that multiple people on multiple occasions stopped to check if I was okay :confounded:. One of the falls was so horrible that I just laid there, motionless from the pain - of embarrassment. Yesterday, I was stopping myself with the skis like: / \ and I thought to try and brake like the pros: \ \ to / /. It was ridiculous to think this was going to go well. Lurching forward on my face, I proceeded to roll onto my back and, like a snow angel, slid down the slope...
 
 I barely made 3 runs, while the others went on and on... :cry: Should've snowboarded - no, wait... I should've gone sledding! _That (with my camera) would’ve been perfect_.
 
@@ -133,4 +133,4 @@ I barely made 3 runs, while the others went on and on... :cry: Should've snowboa
 	<img src="{{ baseurl }}/assets/luantics/P013/P013JPND1331.jpg" alt="line reachiing outside to go down the cable car"/>
 </div>
 
-The body battering marked the end of our time on the slopes. Bags ready and packed, I holed up in the lodge ready for the sun to shine on the new Tomorrowbe. day was going to be the start of the Tokyo leg :smiley:. But that also meant the end of the trip… :worried:. Thanks for reading and come along with me next time, as I get my <a href="https://youtu.be/t3ULhmadHkg?t=1m13s">cray on</a>.
+The body battering marked the end of our time on the slopes. Bags ready and packed, I holed up in the lodge ready for the sun to shine on the new day. Tomorrow was going to be the start of the Tokyo leg :smiley:. But that also meant the end of the trip… :worried:. Thanks for reading and come along with me next time, as I get my <a href="https://youtu.be/t3ULhmadHkg?t=1m13s">cray on</a>.
