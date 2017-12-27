@@ -40,7 +40,7 @@ description: The official luanillustrates blog page. Here, I share various aspec
   {% else %}
     <span disabled class="previous button">Newer</span>
   {% endif %}
-  <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  <span class="page-number">Page<br>{{ paginator.page }} of {{ paginator.total_pages }}</span>
   {% if paginator.next_page %}
     <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next button">Older</a>
   {% else %}
