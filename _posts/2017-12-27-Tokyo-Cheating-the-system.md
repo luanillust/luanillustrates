@@ -97,7 +97,7 @@ As soon as I got my fat stack of 10, I was the first to give it a gamble. On the
 	</div>
 </div>
 
-With more plates stacked to our table, we surmised that it took about 1 in 4 <sup>(or 5)</sup> plates to be on the receiving end of success. With that in mind, as we were about to hit our next 10, Alex motioned to do his set but in swooped Viv with her's. As sneaky as that snipe was, the gacha gods weren't all too pleased and thus rained down fury upon her (a loss). Alex then took his belated shot and what do you know, he won :joy:.
+With more plates stacked to our table, we surmised that it took about 1 in 5 plates to be on the receiving end of success. With that in mind, as we were about to hit our next 10, Alex motioned to do his set but in swooped Viv with her's. As sneaky as that snipe was, the gacha gods weren't all too pleased and thus rained down fury upon her (a loss). Alex then took his belated shot and what do you know, he won :joy:.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P014/P014JPND1626.jpg" alt="girl poking her tongue out at the camera"/>
