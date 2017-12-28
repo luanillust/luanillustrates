@@ -16,33 +16,42 @@
           {{ content | emojify }}
         </article>
         <div class="sequential-posts">
-          <div class="previous">
           {% if page.previous.url %}
-            <a href="{{page.previous.url | prepend: site.baseurl}}">
-              <i class="fa fa-chevron-left" aria-hidden="true"></i>
-              <div>
-                 <span class="blog-post-title">{{ page.previous.title }}</span>
-                 <span class="link-description">Previous Post</span>
-              </div>
-            </a>
-          {% endif %}
-          </div>
 
-          <div class="next">
-          {% if page.next.url %}
-            <a href="{{page.next.url | prepend: site.baseurl}}">
-              <i class="fa fa-chevron-right" aria-hidden="true"></i>
-              <div>
-                 <span class="blog-post-title">{{ page.next.title }}</span>
-                 <span class="link-description">Next Post</span>
-              </div>
-            </a>
+            {% if page.next.url %}
+              <div class="previous">
+            {% else %}
+              <div class="previous-wide">
+            {% endif %}
+
+              <a href="{{ page.previous.url | prepend: site.baseurl }}" title="{{ page.previous.title }}">
+                <i class="fa fa-chevron-left" aria-hidden="true"></i>
+                <div>
+                   <span class="blog-post-title">{{ page.previous.title }}</span>
+                   <span class="link-description">Previous Post</span>
+                </div>
+              </a>
+            </div>
           {% endif %}
-          </div>
+
+          {% if page.next.url %}
+            {% if page.next.url %}
+              <div class="next">
+            {% else %}
+              <div class="next-wide">
+            {% endif %}
+
+              <a href="{{ page.next.url | prepend: site.baseurl }}" title="{{ page.next.title }}">
+                <div>
+                   <span class="blog-post-title">{{ page.next.title }}</span>
+                   <span class="link-description">Next Post</span>
+                </div>
+                <i class="fa fa-chevron-right" aria-hidden="true"></i>
+              </a>
+            </div>
+          {% endif %}
         </div>
       </div>
-
-
 
     </div>
     {% include sidebar.html %}

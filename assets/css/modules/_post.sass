@@ -99,26 +99,30 @@
 
 .sequential-posts
   display: flex
-  width: 100%
+  flex-direction: column
+  justify-content: space-between
+  max-width: 950px
+  margin: 0 auto
   margin-top: 50px
 
-  .previous, .next
-    width: 50%
+  .previous, .next, .previous-wide, .next-wide
+    width: 100%
 
     a
-      display: flex
-      align-items: center
       text-decoration: none
       color: #3d3d3d
 
       i
         font-size: 50px
         margin-right: 10px
+        vertical-align: middle
 
       div
-        display: flex
+        display: inline-flex
         flex-direction: column
+        vertical-align: middle
         align-items: flex-start
+        width: calc(100% - 50px)
 
         span
           max-width: 100%
@@ -129,6 +133,7 @@
 
         .blog-post-title
           font-size: 1.1rem
+          line-height: 1.14
           // color: $link-color
 
         .link-description
@@ -139,6 +144,7 @@
         
         // .blog-post-title,
           // color: $accent-color
+
   .next
     a
       flex-direction: row-reverse
@@ -148,3 +154,9 @@
 
       div
         align-items: flex-end
+
+  @media only screen and (min-width: 769px)
+    flex-direction: row
+
+    .previous, .next
+      width: 48%
