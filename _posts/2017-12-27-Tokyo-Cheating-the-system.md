@@ -1,7 +1,7 @@
 ---
 layout: post
 number: "014"
-title: "JPN Day 16:  Tokyo | Cheating the system"
+title: "JPN Day 16: Tokyo | Cheating the system"
 action: Posted
 datec: 27.12.2017
 header-img: /assets/luantics/P014/P014banner.jpg

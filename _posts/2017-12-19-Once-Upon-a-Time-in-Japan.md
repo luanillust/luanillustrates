@@ -1,7 +1,7 @@
 ---
 layout: post
 number: "012"
-title: "JPN Day 12:  Once Upon a Time in Japan: Kiso Valley"
+title: "JPN Day 12: Once Upon a Time in Japan: Kiso Valley"
 action: Posted
 datec: 19.12.2017
 header-img: /assets/luantics/P012/P012banner.jpg

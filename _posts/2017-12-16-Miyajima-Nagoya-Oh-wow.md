@@ -1,7 +1,7 @@
 ---
 layout: post
 number: "011"
-title: "JPN Day 11:  Miyajima, Nagoya, Oh wow... the madman actually did it"
+title: "JPN Day 11: Miyajima, Nagoya, Oh wow... the madman actually did it"
 action: Posted
 datec: 16.12.2017
 header-img: /assets/luantics/P011/P011banner.jpg
