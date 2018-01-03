@@ -22,7 +22,7 @@ Finding ourselves in Tokyo station, we started the morning at <a href="https://w
 	</div>
 </div>
 
-Getting to Ginza was terrible. Stuck on a bus, we were caught in traffic (Hiroshima flashbacks :confounded:). It was midday and we were still sushi-less (more déjà vu). With a couple hundred metres left, we were reaching Tsukiji. However, just approaching the outer markets, we could see the hectic crowds. It was apparent that we had to abandon all mannerisms and just plough through them. <a href="https://youtu.be/L8eRzOYhLuw?t=1m08s">Breaking free</a> from the clutches of the crowds, we finally reached the various sushi bars. Surprisingly, lines were still short, especially given the time of day.
+Getting to Ginza was terrible. Stuck on a bus, we were caught in traffic (Hiroshima flashbacks :confounded:). It was midday and we were still sushi-less (more déjà vu). With a couple hundred metres left, we were reaching Tsukiji. However, just approaching the outer markets, we could see the hectic crowds. It was apparent that we had to abandon all mannerisms and just plough through them. <a href="https://youtu.be/L8eRzOYhLuw?t=1m08s">Breaking free</a> from the crowd's clutches, we finally reached the various sushi bars. Surprisingly, lines were still short, especially given the time of day.
 
 Wanting to sleep in, we had left Wilson behind but as he was “on his way”, we decided to wait and regroup. Wandering around, we scouted for places with the shortest wait times.
 
@@ -129,8 +129,8 @@ As we neared the end of this trip, it's just mainly shops, shops and more shops.
 
 Now in the last few hours of 2016, everyone had left, and I was stuck with the ball and chain. Not for long... Readying my prison break, I completely emptied my duffel of its purchased contents thus far and packed in the dirty contraband, 3DS and, of course, my music. Curiously, I left behind coins... for a coin operated laundromat.
 
-A short walk in the empty streets, led me to a quiet (relatively) laundromat. Peace and quiet, a.k.a perfection. Breaking my notes at the vending machine, I acquired my small change and a warm milk tea to ward off the cold. It was only when I was putting the clothes in, did I realise that I didn’t have any detergent… 🤦. I turned to the lady behind me and asked to borrow some but she kindly pointed out that the detergent comes with its operation. :open_mouth: _Incredible_. Finishing the preparation, I had a sweet little conversation with the lady. Obviously, one sided but I still :heart:.
+A short walk in the empty streets, led me to a (relatively) quiet laundromat. Breaking my notes at the vending machine, I acquired my small change and a warm milk tea to ward off the cold. It was only when I was putting the clothes in, did I realise that I didn’t have any detergent… 🤦. I turned to the lady behind me and asked to borrow some but she kindly pointed out that the detergent comes with its operation. :open_mouth: _Incredible_. Finishing the preparation, I had a sweet little conversation with the lady. Obviously, one sided but I still :heart:.
 
-Bidding the lady adieu, I was left to myself. As the hum of the machines competed with my blaring tunes, I enjoyed the solitary moment with my _true_ love: games.
+Bidding the lady adieu, I was left to myself. As the hum of the machines competed with my blaring tunes, I enjoyed the solitary moment with my _true_ love: games. Soooo yeah... I spent NYE doing laundry! Doesn't get better than that.
 
 Thanks for reading and join the new me, of the New Year, as I hit the shops _ah-gain_...
