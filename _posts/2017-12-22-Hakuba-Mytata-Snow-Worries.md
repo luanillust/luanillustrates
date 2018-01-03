@@ -1,7 +1,7 @@
 ---
 layout: post
 number: "013"
-title: "JPN Day 13-15: Hakuba | My-tata :( Snow Worries"
+title: "JPN Days 13-15: Hakuba | My-tata :( Snow Worries"
 action: Posted
 datec: 22.12.2017
 header-img: /assets/luantics/P013/P013banner.jpg
