@@ -3,7 +3,7 @@ layout: post
 number: "017"
 title: "JPN Day 20: Tokyo | New Year, New Things to Buy"
 action: Posted
-datec: 5.01.2018
+datec: 4.01.2018
 header-img: /assets/luantics/P017/P017banner.jpg
 description: "Day 20 in my 2016 Japan trip. It's the start of a new year and Tokyo is mostly closed for business. Heading to Odaiba, we treat ourselves to some new goods and a great time"
 categories:
@@ -13,7 +13,7 @@ categories:
 
 2017年 01月 01日 (日)
 
-New Year <sup>(but no good)</sup>, new start <sup>(but no Centrelink)</sup> and a new meee~ <sup>(but still a newbie)</sup>. As a fair chunk of Tokyo is on break during the New Year season, it doesn’t leave a whole lot to do besides <a href="https://youtu.be/ZsABTmT1_M0?t=9s">treatin’ yo self</a>. As people were still in recovery mode from last night, Carolyn and I left without them. We were on our way to Odaiba, an artificial island home to a variety of entertainment institutions, large hubs of department stores and the giant Gundam (now RX-0, formerly RX-78-2).
+New Year <sub>(but no good)</sub>, new start <sub>(but no Centrelink)</sub> and a new meee~ <sub>(but still a newbie)</sub>. As a fair chunk of Tokyo is on break during the New Year season, it doesn’t leave a whole lot to do besides <a href="https://youtu.be/ZsABTmT1_M0?t=9s">treatin’ yo self</a>. As people were still in recovery mode from last night, Carolyn and I left without them. We were on our way to Odaiba, an artificial island home to a variety of entertainment institutions, large hubs of department stores and the giant Gundam (now RX-0, formerly RX-78-2).
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P017/P017JPND2001.jpg" alt="the long roads of Tokyo"/>
@@ -51,9 +51,9 @@ Inside, there is your free zone and the paid zone. Having avoided paying during 
 	<img src="{{ baseurl }}/assets/luantics/P017/P017JPND2011.jpg" alt="a collection of all Gunpla manufactured to date"/>
 </div>
 
-For ¥1200, the exclusive access was worth the price of admission. I mean, I got a couple freebies _and_ a sore neck out of it. Heading to the store, I was hoping to pick some sweet kits. Flicking through their catalogue, I was shocked to see such abhorrent pricing. PGs were ticketed higher than anything I’d seen in a Yodobashi or BIC Camera. This didn’t just apply to its Gunpla range, either. Yet people still flocked to the counter with goods to buy, despite its high price.
+For ¥1200, the exclusive access was worth the price of admission. I mean, I got a couple freebies _and_ a sore neck out of it. Heading to the store, I was hoping to pick up some sweet kits. Flicking through their catalogue, I was shocked to see such abhorrent pricing. PGs were ticketed higher than anything I’d seen in a Yodobashi or BIC Camera. This didn’t just apply to its Gunpla range, either. Yet people still flocked to the counter with goods to buy. Crazy.
 
-Saltily leaving the store empty handed, I proceeded to look for <a href="https://www.google.com.au/maps/place/%E3%82%B4%E3%83%87%E3%82%A3%E3%83%90+%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%B7%E3%83%86%E3%82%A3%E3%81%8A%E5%8F%B0%E5%A0%B4%E5%BA%97/@35.6274359,139.770915,17z/data=!3m2!4b1!5s0x601889f63b48b557:0x10044f70d5eb98eb!4m5!3m4!1s0x601889f63b5bc72f:0x8b74779cc4272305!8m2!3d35.6274359!4d139.7731037?hl=en">Godiva</a>, a gourmet chocolate shop that also serves ice cream and drinks. Refreshing myself with a cold, creamy shake, I re-joined Carolyn to continue the shopping spree, before some much needed lunch at <a href="https://www.google.com.au/maps/place/%E5%9B%9E%E8%BB%A2%E5%AF%BF%E5%8F%B8+%E6%B5%B7%E7%8E%8B/@35.6503607,139.7387823,14z/data=!3m1!5s0x601889f9d3afd357:0x4ceb5b05570071f8!4m8!1m2!2m1!1sdivercity+sushi!3m4!1s0x6018620884fe7e4d:0xa51e7fdeca055e7a!8m2!3d35.6251207!4d139.7754301?hl=en">some sushi place</a>. Despite the low rating reviews (morons spouting nonsense), I can say that it's not the worst. There isn't much to expect out of a department store restaurant... Prices were reasonable, I happily ate the food and service was there when we needed it.
+Saltily leaving the store with my wallet intact, I proceeded to look for <a href="https://www.google.com.au/maps/place/%E3%82%B4%E3%83%87%E3%82%A3%E3%83%90+%E3%82%A2%E3%82%AF%E3%82%A2%E3%82%B7%E3%83%86%E3%82%A3%E3%81%8A%E5%8F%B0%E5%A0%B4%E5%BA%97/@35.6274359,139.770915,17z/data=!3m2!4b1!5s0x601889f63b48b557:0x10044f70d5eb98eb!4m5!3m4!1s0x601889f63b5bc72f:0x8b74779cc4272305!8m2!3d35.6274359!4d139.7731037?hl=en">Godiva</a>, a gourmet chocolate shop that also serves ice cream and drinks. Refreshing myself with a cold, creamy shake, I re-joined Carolyn to continue the shopping spree, before some much needed lunch at <a href="https://www.google.com.au/maps/place/%E5%9B%9E%E8%BB%A2%E5%AF%BF%E5%8F%B8+%E6%B5%B7%E7%8E%8B/@35.6503607,139.7387823,14z/data=!3m1!5s0x601889f9d3afd357:0x4ceb5b05570071f8!4m8!1m2!2m1!1sdivercity+sushi!3m4!1s0x6018620884fe7e4d:0xa51e7fdeca055e7a!8m2!3d35.6251207!4d139.7754301?hl=en">some sushi place</a>. Despite the low rating reviews (morons spouting nonsense), I can say that it's not the worst. There isn't much to expect out of a department store restaurant... Prices were reasonable, I happily ate the food and service was there when we needed it.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P017/P017JPND2016.jpg" alt="the staff works hard to create the perfect drink"/>
@@ -66,7 +66,7 @@ Saltily leaving the store empty handed, I proceeded to look for <a href="https:/
 	<img src="{{ baseurl }}/assets/luantics/P017/P017JPND2015.jpg" alt="girl eating some edamame"/>
 </div>
 
-Continuing the spree after lunch, the others finally made it. Touring the other department stores, we treated ourselves and for dear ones back in Australia.
+Reunited with our friends, we continued the Daiba day, touring the _many_ department stores. Nothing special here. Just the usual rinse, repeat shop routine.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P017/P017JPND2017.jpg" alt="Ferris wheel beside VenusFort"/>
@@ -81,4 +81,4 @@ Continuing the spree after lunch, the others finally made it. Touring the other 
 	<img src="{{ baseurl }}/assets/luantics/P017/P017JPND2023.jpg" alt="group of friends going up the escalator"/>
 </div>
 
-Going late into the evening, we dragged ourselves back home for another night of fun times. Thanks for reading and join me next time, as we break this monotonous pattern with a day trip out to Yokohama for some noods. 
+Going late into the evening, we dragged ourselves back home for another night of fun times. Thanks for reading this filler post and join me next time, as we break this monotonous pattern with a day trip out to Yokohama for some noods 🤤. 
