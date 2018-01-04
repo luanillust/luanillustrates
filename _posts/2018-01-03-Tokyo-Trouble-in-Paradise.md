@@ -103,7 +103,7 @@ While the night was still young, I spent it at home, being the recluse I am. Whe
 
 2016年 12月 31日 (土)
 
-Last day of 2016... To think it's now 2018 :open_mouth:. What a year it had been and what better way to finish the year than to to be in Japan. Three years ago, on this day, I was out in the incredibly crowded Shibuya celebrating with people from all walks of life. Topping off that fun night was going to be tough but I managed to pull it off. More at six.
+Last day of 2016... To think it's now 2018 :open_mouth:. What a year it had been and what better way to finish the year than to to be in Japan. It was only three years ago, on this day, I was out in the incredibly crowded Shibuya celebrating with people from all walks of life. Topping off that fun night was going to be tough but I managed to pull it off. More at six.
 
 Trying not to wake anyone, I tiptoed out the bnb to pick up our guest.
 
