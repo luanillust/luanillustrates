@@ -94,6 +94,7 @@ Then you have this Torikara Stick...ing our like a sore thumb.
 	<img src="{{ baseurl }}/assets/luantics/P007/19.jpg" alt="signboard for Torikara Stick"/>
 </div>
 
+<div id="wrongreserve"></div>
 Heading back, I was eager for some high grade beef. As the doors opened, I was shocked to see how fancy the place was. Greeting the man by the door, I showed him our reservation. He chuckled and pointed out the email provided was for the Cup Noodle Museum... :sweat_smile:
 
 Only needing my name to confirm, he then took us through. At first, I thought we were to be seated at the bar/bench area. Nope! It was going to be 100% <a href="https://youtu.be/GYX5QOVkHxc?t=47s">fancy</a> for us. Ushered into this fancy room, the five of us had our coats taken and sat down on the fancy chairs <sup>(not really that fancy of a chair).</sup>
