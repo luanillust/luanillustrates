@@ -20,19 +20,19 @@ Back to an early start for one last time, we got out the door quickly to my sati
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2102.jpg" alt="a view looking at out at Yokohama's bay"/>
 </div>
 
-Arriving ahead of schedule, we visited the superior Brickworks: <a href="https://www.google.com.au/maps/place/Yokohama+Red+Brick+Warehouse/@35.4555718,139.635286,16z/data=!4m5!3m4!1s0x60185cf885807149:0x94947dd82acc3d73!8m2!3d35.4526266!4d139.6429249?hl=en">Yokohama Red Brick Warehouses</a>, found in the Minato Mirai 21 area. In the marketplace styled environment, you can find unique products from the numerous shops or catch the sickest <a href="https://youtu.be/ncRUr4NcwkM?t=1m7s">egg flips</a>. Walking past the restaurant window, I was given a special look into the kitchen. Stopping to take some pics, I managed to gather a small crowd. Amazingly, the chef had his eyes fixed on us the whole time :open_mouth:.
+Arriving ahead of schedule, we visited the superior Brickworks: <a href="https://www.google.com.au/maps/place/Yokohama+Red+Brick+Warehouse/@35.4555718,139.635286,16z/data=!4m5!3m4!1s0x60185cf885807149:0x94947dd82acc3d73!8m2!3d35.4526266!4d139.6429249?hl=en">Yokohama Red Brick Warehouses</a>, found in the Minato Mirai 21 area. In the marketplace styled environment, you can find unique products from numerous stores or dine at the many food establishments, and catch the sickest <a href="https://youtu.be/ncRUr4NcwkM?t=1m7s">egg flips</a>. Walking past this restaurant's window, I was given a special look into the kitchen. Stopping to take some pics, I managed to gather a small crowd. Amazingly, the chef had his eyes fixed on us the whole time :open_mouth:.
 
 <div class="imageset">
 	<div class="row">
 		<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2102A.jpg" alt="with the plate of tomato rice to the side, the egg is frying in the pan" class="half"/>
 		<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2102B.jpg" alt="with the plate of tomato rice to the side, the egg is folded onto itself in the pan" class="half"/>
 	</div>
-	<sup><em>Flipping</em> awesome.</sup>
+	<sup>Was <em>flipping</em> awesome.</sup>
 </div>
 
-Properly running out of time, we made haste and backtracked to the museum for our reserved noodle making session. Between this and creating your own cup mix, the noodle making is inherently better (and less crowded). To partake in these activities, you’re required to make reservations. Now, they have an English site for info about the place. Reserving, however, can only be done on their Japanese site... With _a lot_ of Google translate, I was able to book myself a spot.
+Properly running out of time, we made haste and backtracked to the museum for our reserved noodle making session. Between this and creating your own cup mix, the noodle making is inherently better (and less crowded). To partake in these activities, you’re required to make reservations. Now, they have an English site for info about the place. Reserving, however, can only be done on their Japanese site... With _a lot_ of Google translate, I was able to book a spot.
 
-With no time to admire the exhibits, I presented the <a href="{% post_url 2017-11-28-Kobe-Beefing-Tears-of-Soy %}#wrongreserve" target="_blank">_correct_ reservation</a> and paid the ¥1000 combo fee (50/50 entry & making). Rushing to the creation space, dubbed as the “Chicken Ramen Factory”, we were the last few to enter... midway into the intro :persevere:. Hands sanitised, we popped on our cute aprons and bandanas, and "tuned" in for the T.V tutorial. Not that it's a cause for concern. There weren't many communication difficulties and English instructions are available. 
+With no time to admire the exhibits, I presented the <a href="{% post_url 2017-11-28-Kobe-Beefing-Tears-of-Soy %}#wrongreserve" target="_blank">_correct_ reservation</a> and paid the ¥1000 combo fee (50/50 entry & making). Rushing to the creation space, dubbed as the “Chicken Ramen Factory”, we were the last few to enter... midway into the intro :persevere:. Hands sanitised, we popped on our cute aprons and bandanas, and "tuned" in for the Japanese tutorial. Not that it's an issue. The whole time, we had no communication difficulties and English instructions are available. 
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2103.jpg" alt="a large cup noodle replica on display"/>
@@ -65,7 +65,7 @@ Since this activity is completed in pairs, our odd member - Wilson - paired with
 	</div>
 </div>
 
-As like all dough, it needed to rest, which allowed us to work on our packet designs during the intermissions. If I recall, the stages were: make dough and knead <sub><sup>:arrow_right:</sup></sub> press out flat <sub><sup>:arrow_right:</sup></sub> roll thinner in machine <sub><sup>:arrow_right:</sup></sub> noodalise and cut <sub><sup>:arrow_right:</sup></sub> season and toss <sub><sup>:arrow_right:</sup></sub> fry <sup><sup>you fools</sup></sup> <sub><sup>:arrow_right:</sup></sub> seal and pack.
+As like all dough, it needed to rest, which allowed us to work on our packet designs during the intermissions. If I recall correctly, the stages were: make dough and knead <sub><sup>:arrow_right:</sup></sub> press out flat <sub><sup>:arrow_right:</sup></sub> roll thinner in machine <sub><sup>:arrow_right:</sup></sub> noodalise and cut <sub><sup>:arrow_right:</sup></sub> season and toss <sub><sup>:arrow_right:</sup></sub> fry <sup><sup>you fools</sup></sup> <sub><sup>:arrow_right:</sup></sub> seal and pack.
 
 <div class="imageset">
 	<div class="row">
@@ -100,13 +100,13 @@ As like all dough, it needed to rest, which allowed us to work on our packet des
 	</div>
 </div>
 
-Seeing the fruits of our labour come to life... it was a special moment :'). Sealing the noodles in our <a href="https://youtu.be/rJnICByeL8Q?t=14s">one of a kind</a> bags, we were given the crumbly leftovers and an extra ready-made packet, for those who want to preserve their creations. _Awesome_.
+Seeing the fruits of our labour come to life... it was... emotional :'). Sealing the noodles in our <a href="https://youtu.be/rJnICByeL8Q?t=14s">one of a kind</a> bags, we were given the crumbly leftovers and an extra ready-made packet, for those who want to preserve their creations. _Awesome_.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2123.jpg" alt="the staff line up and bid the class farewell"/>
 </div>
 
-Leaving the Chicken Factory, we grabbed some lunch at the Noodles Bazaar. A cafeteria with noodle dishes heralding from all over the world. Of course I had to try their take of Vietnam’s phở. I knew it wasn't going to be great but I still had to try. As expected, it wasn't good. The broth lacked a lot of flavour and the two miserable pieces of “beef” only exemplified my prejudices.
+Leaving the Chicken Factory, we grabbed some lunch at the Noodles Bazaar. A cafeteria with noodle dishes heralding from all over the world. Of course I had to try their take of Vietnam’s phở. I knew it wasn't going to be great but I still had to try. And as expected, it wasn't good. The broth lacked a lot of flavour and the two miserable pieces of “beef” only exemplified my prejudices.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2124.jpg" alt="a heavily crowded make your own noodle cup kitchen"/>
@@ -141,11 +141,11 @@ Leaving the Chicken Factory, we grabbed some lunch at the Noodles Bazaar. A cafe
 	</div>
 </div>
 
-With time back on our side, we explored the rest of the museum. There are a lot of wonderful exhibits dotted around the beautifully modern space, especially the chronological noodle gallery. Of course, we couldn’t leave without visiting the gift store. There was a fair amount of worthy and well-priced offerings. I just wish there was more <sup><sup>for me to buy</sup></sup>.
+With time back on our side, we explored the rest of the museum. There are a lot of wonderful exhibits dotted around the beautifully modern space, especially the chronological noodle gallery. And of course, we couldn’t leave without visiting the gift store. It's well priced and there was a decent selection available. 
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2135.jpg" alt="Cup Noodles park slide for the children"/>
-	<em><sup>As fun as it looks, it was for children...</sup></em>
+	<sup>As fun as it looks, it's for <em>children...</em></sup>
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2136.jpg" alt="entrance to the noodle gallery exhibit"/>
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2137.jpg" alt="cup noodles or packet noodles, the wall has it all"/>
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2138.jpg" alt="top to bottom, the glass wall is full of instant noodles"/>
@@ -197,8 +197,8 @@ Returning to Tokyo, we gave Harajuku a slightly more thorough visit; it's better
 	<img src="{{ baseurl }}/assets/luantics/P018/P018JPND2160.jpg" alt="in the hand, a bitten into crêpe"/>
 </div>
 
-Splitting off again, Carolyn and I visited _another_ paradise of mine: <a href="https://www.google.com.au/maps/place/Tsutaya+Daikanyama/@35.6488531,139.6976021,17z/data=!3m2!4b1!5s0x60188b4fc6ac5b49:0x4ceb5b05b48bad60!4m5!3m4!1s0x60188b4fbed0f881:0xd6f9dafad72a5ca9!8m2!3d35.6488531!4d139.6997908?hl=en">Tsutaya Daikanyama (T-Site)</a>. A jaw dropping-ly gorgeous bookstore, both inside and out. Not exclusively a book store though, they also have to offer: movies, music, a café and many lounge spaces, to enjoy the books before purchasing (and that’s just a fraction of things available). I _reaaaaaally_ want one of these in Adelaide. Every other bookstore just pales in comparison. The vast range and collections available, the elegant wood architecture and the peacefulness – it was just _perfect_.
+Splitting off again, Carolyn and I visited yet _another_ paradise of mine: <a href="https://www.google.com.au/maps/place/Tsutaya+Daikanyama/@35.6488531,139.6976021,17z/data=!3m2!4b1!5s0x60188b4fc6ac5b49:0x4ceb5b05b48bad60!4m5!3m4!1s0x60188b4fbed0f881:0xd6f9dafad72a5ca9!8m2!3d35.6488531!4d139.6997908?hl=en">Tsutaya Daikanyama (T-Site)</a>. A jaw dropping-ly gorgeous bookstore, both inside and out. Not exclusively a book store though, they also have to offer: movies, music, a café and many lounge spaces, to enjoy the books before purchasing (and that’s just a fraction of things available). I _reaaaaaally_ want one of these in Adelaide. Every other bookstore just pales in comparison. The vast range and collections available, the elegant wood architecture and the peacefulness – it was just _perfect_.
 
-If only I was born into richness, I’d be able bring back shelves worth of books 🤤. What’s also really great about this Tsutaya is that it opens until 2:00! But!... we didn’t have the luxury to do that (trains not operational and all).
+What’s also really great about this Tsutaya is that it opens until 2:00! But seeing as trains aren't operational then, we didn’t quite have the luxury. If only I was born into richness, I’d be able bring back shelves worth of books 🤤.
 
 Being late in the night, I forewent regrouping and returned straight home. Getting a good night’s rest, I needed to be ready for tomorrow’s giant tour. Bouncing around Tokyo, I was going to visit all the BIC Cameras, i.e. The BICest Tour. Thank you for reading and join me next time.
