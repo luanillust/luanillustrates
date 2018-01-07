@@ -13,7 +13,7 @@ categories:
 
 2017年 01月 03日 (火)
 
-Relegating no particular activities to the day, I embarked on the "BICest Tour". Since the JR Pass expired today, I was going to get my money’s worth and utilise it anywhere and everywhere <sup>tfw you only use Yamanote</sup>. Allowing myself to have a moment of comfort, I carried very little with me. It had been so long, I forgot how nice it was to not burden a backpack.
+Relegating no particular activities to the day, I embarked on the "BICest Tour". Since the JR Pass expired today, I was going to get my money’s worth and utilise it anywhere and everywhere <sup>tfw you only use Yamanote</sup>. Allowing myself to have a moment of comfort, I carried very little with me. It had been so long, I forgot how nice it was to not bear the burden of a backpack.
 
 So... what does the “BICest Tour” entail? I wanted to gift my beloved brother with a Gunpla kit; a Perfect Grade RX-178 Gundam Mk-II (AEUG Colours). We both love our model kits but Australia loves to screw me over with pricing on _any_ hobbies/interests I have. And sourcing for cheaper alternatives online can only get you so far. <a href="{% post_url 2018-01-04-Tokyo-New-Year-New-Things-to-Buy %}#ripoff" target="_blank">Previously, I mentioned Gundam Front's daylight robbery</a> and the fact that BIC have Gunpla for cheaper. However, chain stores aren't carbon copies of each other, and thus the "BICest Tour" was born.
 
@@ -21,11 +21,11 @@ It was going to be grand, discovering all the unique places surrounding each bra
 
 _Aaaaaannnd_ first store in and it's over :no_mouth:.
 
-Not wanting to carry a giant box around, I returned home and lost the dead weight. Abandoning the tour, I shop around and picked up "some" more books for my library. It didn't take long for them to absolutely wreck my wrists. Just holding a few was enough to cause discomfort. 
+Not wanting to carry a giant box around, I returned home and lost the dead weight. Abandoning the tour, I shopped around and picked up "some" more books for my library. It didn't take long for them to absolutely wreck my wrists. Just holding a few was enough to cause discomfort. 
 
-:fast_forward: to night. I’ve munched on some Pablo minis (_delicious_) and meet up with Alex and Vivian for some BBQ. It felt like forever since I've had a meal that wasn’t just with Carolyn. Though, thanks to Alex’s efforts, she ended up joining us anyway. 
+:fast_forward: to night. I’ve munched on some Pablo minis (_delicious_) and meet up with Alex and Vivian for some BBQ. It felt like fooooreveeer since I've had a meal that wasn’t just with Carolyn. Though, thanks to Alex’s efforts, she ended up joining us anyway. 
 
-Looking for a place to eat, we strolled around Shinjuku. In the midst of that, my Wi-Fi picked up a free connection and updated everything. A chat bubble pops out and I see that Carolyn has messaged me saying that she can't get in the home. <a href="https://youtu.be/70eU840lc38?t=5s">_Shiiiii<sup>ii<sup>iiet</sup></sup>_</a> Retracing our steps, we rushed back for a connection and instructed her to come. Leaving the key inside the apartment instead of the lockbox outside, Carolyn was left to lonesome self. Surprisingly, she was okay throughout the whole night. No complaints whatsoever...
+Looking for a place to eat, we strolled around Shinjuku. In the midst of that, my Wi-Fi picked up a free connection and updated everything. A chat bubble pops out and I see that Carolyn has messaged me saying that she can't get in the home. <a href="https://youtu.be/70eU840lc38?t=5s">_Shiiiii<sup>ii<sup>iiet</sup></sup>_</a> Retracing our steps, we rushed back for a connection and instructed her to come. Leaving the key inside the apartment instead of the lockbox outside, Carolyn was left to her lonesome self. Surprisingly, she was okay throughout the whole night. No complaints whatsoever...
 
 <div class="imageset">
 	<div class="row">
@@ -75,7 +75,7 @@ Relishing the last night in Tokyo, we hit up the プリクラ before knocking ou
 
 2017年 01月 04日 (水)
 
-Even after staying up 'til 4:00, I have yet to finish packing. Continuing the pack in the early morning, I grew increasingly worried about my weight (baggage). Lifting my luggage felt like a tonne... not forgetting, I still had my duffel and PG kit...
+Even after staying up 'til 4:00, I have yet to finish packing. Continuing the pack in the early morning, I grew increasingly worried about my weight (baggage). Lifting my luggage felt like a tonne... not forgetting, I still had my duffel and PG kit... <sup><sup>(I went over the limit but got the :ok_hand:)</sup></sup>
 
 Splitting off, the others left for their last minute shopping and I was left to myself, contemplating how to spend my last ~¥120. Visiting the local supermarket, I tossed it up between some fried foods or a bag of chips. I wanted something more substantial but wasn't going to withdraw or spend more than I needed to. After a couple of laps of hard thinking, I chose fried goods. 
 
