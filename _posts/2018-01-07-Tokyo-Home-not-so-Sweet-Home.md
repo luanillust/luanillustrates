@@ -105,3 +105,7 @@ Snacking away, I sulked around the neighbourhood, knowing I won't be here for a 
 	<img src="{{ baseurl }}/assets/luantics/P019/P019JPND2225.jpg" alt="happily posing at the airport"/>
 	<img src="{{ baseurl }}/assets/luantics/P019/P019JPND2226.jpg" alt="sneakily trying to take a photo of the guard standing on the platform"/>
 </div>
+
+Skipping past the unpleasantries, I'm now strapped in the ~~death trap~~ plane. Too many times have I fallen victim to the plane’s vicious uncomfortableness. Not this time. Popping a sleeping pill, I was out cold. However, I was torn from my slumber many times for the crappy meals... Waking up, I felt sooo groggy. My whole body felt sore and tender all over, like after an intense exercise. I also found myself rubbing my pectorals... a lot :confused:. 
+
+Sadly, we landed, cleared customs and returned to our respective homes. Well... here we are, the conclusive end of Japan 2016. Even with the many ups and downs and overlooked activities, I had a complete blast and cannot wait to revisit. Thank you for reading. I hope you’ve enjoyed reading this as much as I have been writing. Stay tuned for the next instalment of Luantics.
