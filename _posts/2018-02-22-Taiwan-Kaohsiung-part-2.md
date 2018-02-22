@@ -64,9 +64,9 @@ Right at the centre was probably the main attraction of the Main Hall; a large p
 	</div>
 </div>
 
-Meanwhile, the typical Chinese <sup><sup>(*操nese)</sup></sup> tourists unashamedly whip out their phones in broad daylight... What my sneaky shots failed to demonstrate was... the room. On a more serious note, the ambience was quite mystical. Especially with the glow emanating from the floor tiles and the surrounding wall of infinity mirror effects. Then you have, at centre stage, a shining statue of the thousand-armed thousand-eyed Avalokiteśvara.
+Meanwhile, the typical Chinese<sup><sup>*操nese</sup></sup> tourists unashamedly whip out their phones in broad daylight... Annoyances aside, the ambience was quite mystical. Especially with the glow emanating from the floor tiles and the surrounding wall of infinity mirror effects. Then you have, at centre stage, a shining statue of the thousand-armed thousand-eyed Avalokiteśvara.
 
-Upon exiting, my brother and I decided to move ahead of the group. Just a quick wander about on the floors above. Having strayed a _little_ too far for a _little_ too long, we rushed back to an empty atrium :grimacing:. Scurrying around, we attempted to find the group but they were long gone. Then, in the corner of my eye, I noticed a couple from our group. Staff were leading them away and some quick thinking on my part gave chase <sup>-blindly</sup>. The four of us were now waiting in a line for who knows what. Standing there twiddling my thumbs, I was starting to think our group was never here. As I thought that, we were ushered into this theatre room where we collected 3D glasses... :sweat_smile: Definitely not on our program. Unable to back out, no thanks to our communication barriers, I had to sit there and suffer. It was hilariously terrible. As if it wasn’t bad enough that we were slowly losing the others, this "feature" film was completely in Chinese and had the quality of animation typically found in generic trashy YouTube Kids videos.
+Upon exiting, my brother and I decided to move ahead of the group. Just a quick wander about on the floors above. Having strayed a little _too_ far for a little _too_ long, we rushed back to an empty atrium :grimacing:. Scurrying around, we attempted to find the group but they were long gone. Then, in the corner of my eye, I noticed a couple from our group. Staff were leading them away and some quick thinking on my part gave chase <sup>-blindly</sup>. The four of us were now waiting in a line for who knows what. Standing there twiddling my thumbs, I was starting to think our group was never here. As I thought that, we were ushered into this theatre room where we collected 3D glasses... :sweat_smile: Definitely not on our program. Unable to back out, no thanks to our communication barriers, I had to sit there and suffer. It was hilariously terrible. As if it wasn’t bad enough that we were slowly losing the others, this "feature" film was completely in Chinese and had the quality of animation typically found in generic trashy YouTube Kids videos.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P021/P021TWK26.jpg" alt="a snapshot of a film doco at the Fo Guang Shan Museum"/>
@@ -149,7 +149,7 @@ Back to the start again, and I have left the _meh_ ‘til last. Like the dragon 
 	<img src="{{ baseurl }}/assets/luantics/P021/P021TWK68.jpg" alt="panoramic view of the Lotus Pond at Kaohsiung"/>
 </div>
 
-Leaving the Lotus Pond, it marked the end of our attraction viewing for the day. Up next, we made a quick stop at <a href="https://www.google.com.au/maps/place/Chun+Shui+Tang/@22.5957418,120.3051467,17z/data=!3m1!4b1!4m8!1m2!2m1!1schun+shui+tang!3m4!1s0x346e0369cd39a833:0x16ddec177cac89b5!8m2!3d22.5957418!4d120.3073354?hl=en">Chan Shui Tang (春水堂)</a> where our local guide singlehandedly brought us twenty odd cups of bubz :heart_eyes:. Again, it tasted good but it wasn’t sweet enough. I _need_ the sugar, yo.
+Leaving the Lotus Pond, it marked the end of our attraction viewing for the day. Up next, we made a quick stop at <a href="https://www.google.com.au/maps/place/Chun+Shui+Tang/@22.5957418,120.3051467,17z/data=!3m1!4b1!4m8!1m2!2m1!1schun+shui+tang!3m4!1s0x346e0369cd39a833:0x16ddec177cac89b5!8m2!3d22.5957418!4d120.3073354?hl=en">Chan Shui Tang (春水堂)</a> where our local guide singlehandedly brought us twenty odd cups of bubz :heart_eyes:. Again, it tastes good but it's not sweet enough. I _neeeed_ the sugar, yo.
 
 Continuing the trend of going in reverse, we washed down our drinks with a confectionary overload at the <a href="https://www.google.com.au/maps/place/%E7%B6%AD%E6%A0%BC%E9%A4%85%E5%AE%B6/@22.6517192,120.287799,17z/data=!4m12!1m6!3m5!1s0x346e04506e3f53a7:0x56a9bd9f87ba0ba!2z57at5qC86aSF5a62!8m2!3d22.6488746!4d120.2926403!3m4!1s0x346e04506e3f53a7:0x56a9bd9f87ba0ba!8m2!3d22.6488746!4d120.2926403?hl=en">Castle of Golden Pineapple (維格餅家)</a>. Eating my weight in samples, I was quite the happy chappy :smile:. It was here that I discovered my new-found love – pineapple cake. Making my first time <sup><sup><sup>キャー</sup></sup></sup> even greater, we were sampling a _fresh_ batch 🤤.
 
@@ -164,7 +164,7 @@ Continuing the trend of going in reverse, we washed down our drinks with a confe
 	<img src="{{ baseurl }}/assets/luantics/P021/P021TWK72.jpg" alt="a large amount of confectionary samples to taste at the Castle of Golden Pineapple"/>
 </div>
 
-Only in for the (most welcome) money shakedown, we most likely missed any other offerings the place had in store - it was a large building after all.
+Only in for the (most welcome) money shakedown, it's very likely that we missed any other offerings the place had in store - it was a large building after all.
 
 <div class="imageset">
 	<div class="row">
