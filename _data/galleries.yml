@@ -17,17 +17,17 @@
   - file: P-P02-lush.jpg
     thumb: P-P02-lush.jpg
     title: Lush
-    text: During my Great Ocean Road-trip at Triplet Falls, VIC
+    text: "Triplet Falls, VIC"
     alt: Lush forest landscape
   - file: P-P03-pass.jpg
     thumb: P-P03-pass.jpg
     title: Pass
-    text: Hakone, Japan
+    text: "Hakone, Japan"
     alt: Black and white photo of a person with passing buses
   - file: P-P04-qmark.jpg
     thumb: P-P04-qmark.jpg
     title: "?"
-    text: Mount Lofty Botanical Gardens, SA
+    text: "Mount Lofty Botanical Gardens, SA"
     alt: an odd formation of leaves shaped like a question mark or mushroom
   - file: P-P06-reperepetition.jpg
     thumb: P-P06-reperepetition.jpg
@@ -39,15 +39,15 @@
     title: Archived
     text: State Library Victoria, VIC
     alt: Inside the state library of Victoria
-  - file: P-P08-sky_high.jpg
-    thumb: P-P08-sky_high.jpg
-    title: Sky High
-    text: Roppongi Hills, Tokyo
+  - file: P-P10-crossing.jpg
+    thumb: P-P10-crossing.jpg
+    title: Crossing
+    text: "Streets of Kaohsiung, Taiwan"
     alt: Skyscrapers in Roppongi Hills
   - file: P-P09-Saigone.jpg
     thumb: P-P09-Saigone.jpg
     title: Saigone
-    text: "My view from the plane overlooking the Saigon River"
+    text: "Saigon River"
     alt: A foggy aerial view of a river
 
 
@@ -61,32 +61,32 @@
   - file: P-I01_World_WILD_Web_-_Oceanique.jpg
     thumb: P-I01_World_WILD_Web_-_Oceanique.jpg
     title: "World WILD Web: Oceanique"
-    text: Advertisement poster for my critically acclaimed feature film
+    text: Movie poster advertisement for an original feature film
     alt: Movie poster with octopus taking a bath in arctic waters
   - file: P-I02_World_WILD_Web_-_D-OG.jpg
     thumb: P-I02_World_WILD_Web_-_D-OG.jpg
     title: "World WILD Web: D-OG"
-    text: <sup><sup>wow</sup></sup> Advertisement poster for my critically acclaimed feature film
+    text: <sup><sup>wow</sup></sup> Movie poster advertisement for an original feature film
     alt: Movie poster with dog looking afar from cliff top
   - file: P-I03_World_WILD_Web_-_Gerry.jpg
     thumb: P-I03_World_WILD_Web_-_Gerry.jpg
     title: "World WILD Web: Gerry"
-    text: Advertisement poster for my critically acclaimed feature film
+    text: Movie poster advertisement for an original feature film
     alt: Movie poster with gerbil making snow angel
   - file: P-I04_0Q_f5.6.png
     thumb: P-I04_0Q_f5.6.png
     title: "0Q: f/5.6"
-    text: My chart-topping perfect all-kill single
+    text: Album cover for an original single
     alt: Clownfish in transparent lens housing
   - file: P-I05_0Q_acarium.png
     thumb: P-I05_0Q_acarium.png
     title: "0Q: Acarium"
-    text: "#1 on Billboard 100 for 2 years straight"
+    text: "Album cover for an original single"
     alt: Small school of fish in transparent car
   - file: P-I06_0Q_washout.png
     thumb: P-I06_0Q_washout.png
     title: "0Q: Wash Out"
-    text: Grammy song of the century
+    text: Album cover for an original single
     alt: Tropical fish in transparent washing machine
   - file: P-I07_desert_igloo.jpg
     thumb: P-I07_desert_igloo.jpg
