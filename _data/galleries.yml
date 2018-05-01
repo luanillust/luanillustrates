@@ -3,111 +3,123 @@
 - id: portfolio
   description: 
   path: assets/img/portfolio
-  filters: [ All, Photography, Illustration, Print, World WILD Web, 0Q ]
+  filters: [ All, Photography, Illustration, Graphic ]
   files:
-  - filename: luanillustrates-guide-to-profiteroles.pdf
-    thumb: profiteroles.png
-    title: Your Guide to Profiteroles
-    text: hehexd
-    tags: [Photography, Print]
-  - filename: P-P01-sunset_glow.jpg
-    thumb: P-P01-sunset_glow.jpg
+  - filename: P01-paradise.png
+    thumb: P01-paradise.png
+    title: "paradise"
+    text: "An original album cover"
+    alt: A pineapple mason jar acts as a leisure pool for the couple
+    tags: [ Photography, Graphic, Illustration ]
+  - filename: P02-mixnmatch.png
+    thumb: P02-mixnmatch.png
+    title: "mix 'n match"
+    text: "An original album cover"
+    alt: A mismatched 1975 Volkswagen Passat with a dog in the driver's seat
+    tags: [ Photography, Graphic, Illustration ]
+  - filename: P03-non.png
+    thumb: P03-non.png
+    title: "nonsense"
+    text: "An original album cover"
+    alt: A can of nothing posing as a cannon with two soldiers up to no good
+    tags: [ Photography, Graphic, Illustration ]
+  - filename: P04-sunsalt-glow.jpg
+    thumb: P04-sunsalt-glow.jpg
     title: Sunsalt Glow
-    text: Bumbunga Lake, SA
+    text: "Bumbunga Lake, SA"
     alt: Salt crystals in a sunset glowing puddle
     tags: [ Photography ]
-  - filename: P-P05-one_tree_hill.jpg
-    thumb: P-P05-one_tree_hill.jpg
-    title: One Tree Hill 
-    text: Overlooking Adelaide from Mt. Osmond
-    alt: Gumtree looming over Adelaide cityscape
-    tags: [ Photography ]
-  - filename: P-I01_World_WILD_Web_-_Oceanique.jpg
-    thumb: P-I01_World_WILD_Web_-_Oceanique.jpg
-    title: "World WILD Web: Oceanique"
-    text: Movie poster advertisement for an original feature film
-    alt: Movie poster with octopus taking a bath in arctic waters
-    tags: [ Illustration, World WILD Web ]
-  - filename: P-I02_World_WILD_Web_-_D-OG.jpg
-    thumb: P-I02_World_WILD_Web_-_D-OG.jpg
-    title: "World WILD Web: D-OG"
-    text: <sup><sup>wow</sup></sup> Movie poster advertisement for an original feature film
-    alt: Movie poster with dog looking afar from cliff top
-    tags: [ Illustration, World WILD Web ]
-  - filename: P-I03_World_WILD_Web_-_Gerry.jpg
-    thumb: P-I03_World_WILD_Web_-_Gerry.jpg
-    title: "World WILD Web: Gerry"
-    text: Movie poster advertisement for an original feature film
-    alt: Movie poster with gerbil making snow angel
-    tags: [ Illustration, World WILD Web ]
-  - filename: P-P10-crossing.jpg
-    thumb: P-P10-crossing.jpg
-    title: Crossing
-    text: Streets of Kaohsiung, Taiwan
-    alt: Skyscrapers in Roppongi Hills
-    tags: [ Photography ]
-  - filename: P-P06-reperepetition.jpg
-    thumb: P-P06-reperepetition.jpg
-    title: Reperepetition
-    text: repetition
-    alt: An infinity-like look down the train carriages
-    tags: [ Photography ]
-  - filename: P-P09-Saigone.jpg
-    thumb: P-P09-Saigone.jpg
-    title: Saigone
-    text: Saigon River
-    alt: A foggy aerial view of a river
-    tags: [ Photography ]
-  - filename: P-P02-lush.jpg
-    thumb: P-P02-lush.jpg
+  - filename: P05-lush.jpg
+    thumb: P05-lush.jpg
     title: Lush
     text: Triplet Falls, VIC
     alt: Lush forest landscape
     tags: [ Photography ]
-  - filename: P-P03-pass.jpg
-    thumb: P-P03-pass.jpg
+  - filename: P06-one-tree-hill.jpg
+    thumb: P06-one-tree-hill.jpg
+    title: One Tree Hill 
+    text: Overlooking Adelaide from Mt. Osmond
+    alt: Gumtree looming over Adelaide cityscape
+    tags: [ Photography ]
+  - filename: P07-worldwildweb-oceanique.jpg
+    thumb: P07-worldwildweb-oceanique.jpg
+    title: "World WILD Web: Oceanique"
+    text: "Original feature film poster"
+    alt: Movie poster with octopus taking a bath in arctic waters
+    tags: [ Illustration, Graphic ]
+  - filename: P08-worldwildweb-d-og.jpg
+    thumb: P08-worldwildweb-d-og.jpg
+    title: "World WILD Web: D-OG"
+    text: <sup><sup>wow</sup></sup> Original feature film poster
+    alt: Movie poster with dog looking afar from cliff top
+    tags: [ Illustration, Graphic ]
+  - filename: P09-worldwildweb-gerry.jpg
+    thumb: P09-worldwildweb-gerry.jpg
+    title: "World WILD Web: Gerry"
+    text: Original feature film poster
+    alt: Movie poster with gerbil making snow angel
+    tags: [ Illustration, Graphic ]
+  - filename: P10-f5.6.png
+    thumb: P10-f5.6.png
+    title: "f/5.6"
+    text: Album cover for an original single
+    alt: Clownfish in transparent lens housing
+    tags: [ Illustration, Graphic ]
+  - filename: P11-acarium.png
+    thumb: P11-acarium.png
+    title: "Acarium"
+    text: Album cover for an original single
+    alt: Small school of fish in transparent car
+    tags: [ Illustration, Graphic ]
+  - filename: P12-washout.png
+    thumb: P12-washout.png
+    title: "Wash Out"
+    text: Album cover for an original single
+    alt: Tropical fish in transparent washing machine
+    tags: [ Illustration, Graphic ]
+  - filename: P13-crossing.jpg
+    thumb: P13-crossing.jpg
+    title: Crossing
+    text: Streets of Kaohsiung, Taiwan
+    alt: Skyscrapers in Roppongi Hills
+    tags: [ Photography ]
+  - filename: P14-pass.jpg
+    thumb: P14-pass.jpg
     title: Pass
     text: Hakone, Japan
     alt: Black and white photo of a person with passing buses
     tags: [ Photography ]
-  - filename: P-P04-qmark.jpg
-    thumb: P-P04-qmark.jpg
+  - filename: P15-reperepetition.jpg
+    thumb: P15-reperepetition.jpg
+    title: Reperepetition
+    text: repetition
+    alt: An infinity-like look down the train carriages
+    tags: [ Photography ]
+  - filename: P16-Saigone.jpg
+    thumb: P16-Saigone.jpg
+    title: Saigone
+    text: Saigon River
+    alt: A foggy aerial view of a river
+    tags: [ Photography ]
+  - filename: P17-qmark.jpg
+    thumb: P17-qmark.jpg
     title: "?"
     text: Mount Lofty Botanical Gardens, SA
     alt: an odd formation of leaves shaped like a question mark or mushroom
     tags: [ Photography ]
-  - filename: P-I04_0Q_f5.6.png
-    thumb: P-I04_0Q_f5.6.png
-    title: "0Q: f/5.6"
-    text: Album cover for an original single
-    alt: Clownfish in transparent lens housing
-    tags: [ Illustration, 0Q ]
-  - filename: P-I05_0Q_acarium.png
-    thumb: P-I05_0Q_acarium.png
-    title: "0Q: Acarium"
-    text: Album cover for an original single
-    alt: Small school of fish in transparent car
-    tags: [ Illustration, 0Q ]
-  - filename: P-I06_0Q_washout.png
-    thumb: P-I06_0Q_washout.png
-    title: "0Q: Wash Out"
-    text: Album cover for an original single
-    alt: Tropical fish in transparent washing machine
-    tags: [ Illustration, 0Q ]
-  - filename: P-P07-archived.jpg
-    thumb: P-P07-archived.jpg
-    title: Archived
-    text: State Library Victoria, VIC
-    alt: Inside the state library of Victoria
-    tags: [ Photography ]
-  - filename: P-I07_desert_igloo.jpg
-    thumb: P-I07_desert_igloo.jpg
+  - filename: P18-profiteroles.pdf
+    thumb: profiteroles.png
+    title: Your Guide to Profiteroles
+    text: "A brief, easy-to-follow recipe for profiteroles"
+    tags: [ Photography, Graphic ]
+  - filename: P19-desert-igloo.jpg
+    thumb: P19-desert-igloo.jpg
     title: Egyptian Igloo
     text: Coarse and rough and irritating and gets everywhere
     alt: Pyramid shaped igloos in a raging sandstorm
     tags: [ Illustration ]
-  - filename: P-I08_deep_sea_dive.jpg
-    thumb: P-I08_deep_sea_dive.jpg
+  - filename: P20-deep-sea.jpg
+    thumb: P20-deep-sea.jpg
     title: Deep Sea Dive
     text: X
     alt: Scuba diver searching in the depths of the sea

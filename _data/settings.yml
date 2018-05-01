@@ -7,19 +7,11 @@ email: hi@luanillustrates.com
 accolades:
   - title: Robogals Head of Graphics
     period: 2018 - Present
-    url: http://adelaide.robogals.org.au
-  - title: Robogals Head of the Dee
-    period: Jan 2016 - Feb 2016
-  - title: subarashii award desu
-    period: Apr 2013 - Jun 2015
-  - title: sugoi award desu
-    period: Apr 2013 - Jun 2015
+    url: https://robogals.org
 
 
 sidebar-menu:
 - { name: Portfolio,    url: '/portfolio' }
-- { name: Illustration, url: '/portfolio#Illustration', sub: 'Portfolio' }
-- { name: Photography,  url: '/portfolio#Photography',  sub: 'Portfolio' }
 - { name: LUANtics,     url: '/luantics' }
 - { name: About Me,     url: '/about' }
 - { name: Let's Talk,   url: '/contact' }
