@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    <div class="about-container">
+      <div class="content-container">
+        {{ content | emojify }}
+      </div>
+      {% include sidebar.html %}
+    </div>
+  </body>
+</html>

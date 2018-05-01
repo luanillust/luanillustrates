@@ -118,12 +118,26 @@
     width: 100%;
   }
 
-  .featherlight img {
+  .featherlight img, .featherlight object {
     max-height: 76vh;
-    max-width: 950px;
-    /*width: 100%;*/
     margin: 0 auto;
     display: block;
+  }
+
+  .featherlight img {
+    max-width: 950px;
+  }
+
+  .featherlight object {
+    display: flex;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .missing-plugin {
+    max-width: 430px;
   }
 
   .featherlight-iframe .featherlight-content {
@@ -158,7 +172,7 @@
     /*border-bottom: 10px solid transparent;*/
   }
   
-  .featherlight img {
+  .featherlight img, .featherlight object {
     max-width: 100%;
   }
 }

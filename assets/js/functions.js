@@ -2,9 +2,7 @@ $(document).ready(function() {
   $(document.links).filter(function() {
     return this.hostname != window.location.hostname;
   }).attr('target', '_blank');
-});
 
-$(document).ready(function(){
   $(".load-more-posts").click(function() {
     $(this).addClass("loading");
 

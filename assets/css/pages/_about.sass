@@ -1,66 +1,99 @@
-.bio-headline
-  font-weight: 800
-  font-style: italic
-  color: #2e2d33
-  font-size: 3rem
-  text-align: center
+.about-container
+  position: relative
+  max-width: 90%
+  margin: 0 auto
+  +clearfix
 
 .bio-container
-  display: flex
-  flex-direction: column
-  align-items: center
+  // display: grid
+
+  .bio-headline
+    font-weight: 800
+    font-style: italic
+    color: #2e2d33
+    font-size: 3rem
+    text-align: center
+    grid-area: headline
 
   .bio-img
-    margin: 10px
+    grid-area: avatar
+    text-align: center
     .full-image
       width: 100%
       display: none
     .circle-image
       border-radius: 50%
-
     img
       width: 300px
 
-  .bio-text
+  .bio-text, .bio-accolades
+    grid-area: about
     padding: 0 2em
     font-size: 1.4rem
 
+    h2
+      margin: 0
+      color: #3d3d3d
+      text-align: center
+    li
+      display: flex
+      flex-direction: column-reverse
+      align-items: flex-start
+      justify-content: space-between
+      margin-bottom: 20px
+      line-height: 1
+    .title
+      // font-weight: 800
+    .period
+      font-weight: 400
+      font-style: italic
+      font-size: 0.8em
+
+  .bio-accolades
+    grid-area: accolade
+
 @media only screen and (min-width: 625px)
-  .bio-headline
-    font-size: 3.5rem
+  .bio-container
+    .bio-accolades li
+      flex-direction: row
+      align-items: flex-end
+      justify-content: space-between
+      margin: 0
+      line-height: 1.5
 
 @media only screen and (min-width: 851px)
-  .bio-headline
-    text-align: right
-    position: absolute
-    top: 4%
-    right: 10%
-    font-size: 3.984rem
-
   .bio-container
-    margin-top: 20%
-    display: flex
-    flex-direction: row
-    align-items: center
+    display: grid
+    grid-gap: 10px
+    grid-template-rows: 5vh auto auto auto 5vh
+    grid-template-columns: 0.5fr 5.4fr 0.2fr 5.4fr 0.5fr
+    grid-template-areas: ". . . . ." ". avatar . headline ." ". avatar . about ." ". avatar . accolade ." ". . . . ."
+
+    .bio-headline
+      margin: 0
+      text-align: left
 
     .bio-img
-      width: 49%
       .full-image
         display: block
       .circle-image
         display: none
 
-    .bio-text
-      width: 49%
-      padding: 1em
+    .bio-text, .bio-accolades
+      font-size: 1.2rem
+      padding: 0
 
-@media only screen and (min-width: 1325px)
-  .bio-headline
-    text-align: left
-    position: absolute
-    top: 3.5%
-    left: -10%
-    font-size: 3.984rem
-
+@media only screen and (min-width: 1050px)
   .bio-container
-    margin-top: 20%
+    grid-template-columns: 0.9fr 4fr 0.2fr 6fr 0.9fr
+    grid-template-areas: ". . . . ." ". avatar . headline ." ". avatar . about ." ". avatar . accolade ." ". . . . ."
+
+    .bio-text, .bio-accolades
+      font-size: 1.2rem
+      padding: 0 2em
+
+@media only screen and (min-width: 1440px)
+  .bio-container
+    .bio-text, .bio-accolades
+      font-size: 1.5rem
+      padding: 0 3.5em

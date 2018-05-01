@@ -1,100 +1,114 @@
 #-------------------------------
-# Photography Portfolio Gallery
-- id: photography
+# Portfolio Gallery
+- id: portfolio
   description: 
-  imagefolder: assets/img/photography
-  images:
-  - file: P-P01-sunset_glow.jpg
+  path: assets/img/portfolio
+  filters: [ All, Photography, Illustration, Print, World WILD Web, 0Q ]
+  files:
+  - filename: luanillustrates-guide-to-profiteroles.pdf
+    thumb: profiteroles.png
+    title: Your Guide to Profiteroles
+    text: hehexd
+    tags: [Photography, Print]
+  - filename: P-P01-sunset_glow.jpg
     thumb: P-P01-sunset_glow.jpg
     title: Sunsalt Glow
-    text: 'Bumbunga Lake, SA'
+    text: Bumbunga Lake, SA
     alt: Salt crystals in a sunset glowing puddle
-  - file: P-P05-one_tree_hill.jpg
+    tags: [ Photography ]
+  - filename: P-P05-one_tree_hill.jpg
     thumb: P-P05-one_tree_hill.jpg
     title: One Tree Hill 
     text: Overlooking Adelaide from Mt. Osmond
     alt: Gumtree looming over Adelaide cityscape
-  - file: P-P02-lush.jpg
-    thumb: P-P02-lush.jpg
-    title: Lush
-    text: "Triplet Falls, VIC"
-    alt: Lush forest landscape
-  - file: P-P03-pass.jpg
-    thumb: P-P03-pass.jpg
-    title: Pass
-    text: "Hakone, Japan"
-    alt: Black and white photo of a person with passing buses
-  - file: P-P04-qmark.jpg
-    thumb: P-P04-qmark.jpg
-    title: "?"
-    text: "Mount Lofty Botanical Gardens, SA"
-    alt: an odd formation of leaves shaped like a question mark or mushroom
-  - file: P-P06-reperepetition.jpg
-    thumb: P-P06-reperepetition.jpg
-    title: Reperepetition
-    text: repetition
-    alt: an infinity-like look down the train carriages
-  - file: P-P07-archived.jpg
-    thumb: P-P07-archived.jpg
-    title: Archived
-    text: State Library Victoria, VIC
-    alt: Inside the state library of Victoria
-  - file: P-P10-crossing.jpg
-    thumb: P-P10-crossing.jpg
-    title: Crossing
-    text: "Streets of Kaohsiung, Taiwan"
-    alt: Skyscrapers in Roppongi Hills
-  - file: P-P09-Saigone.jpg
-    thumb: P-P09-Saigone.jpg
-    title: Saigone
-    text: "Saigon River"
-    alt: A foggy aerial view of a river
-
-
-
-#-------------------------------
-# Ilustration Portfolio Gallery
-- id: illustrations
-  description: 
-  imagefolder: assets/img/illustration
-  images:
-  - file: P-I01_World_WILD_Web_-_Oceanique.jpg
+    tags: [ Photography ]
+  - filename: P-I01_World_WILD_Web_-_Oceanique.jpg
     thumb: P-I01_World_WILD_Web_-_Oceanique.jpg
     title: "World WILD Web: Oceanique"
     text: Movie poster advertisement for an original feature film
     alt: Movie poster with octopus taking a bath in arctic waters
-  - file: P-I02_World_WILD_Web_-_D-OG.jpg
+    tags: [ Illustration, World WILD Web ]
+  - filename: P-I02_World_WILD_Web_-_D-OG.jpg
     thumb: P-I02_World_WILD_Web_-_D-OG.jpg
     title: "World WILD Web: D-OG"
     text: <sup><sup>wow</sup></sup> Movie poster advertisement for an original feature film
     alt: Movie poster with dog looking afar from cliff top
-  - file: P-I03_World_WILD_Web_-_Gerry.jpg
+    tags: [ Illustration, World WILD Web ]
+  - filename: P-I03_World_WILD_Web_-_Gerry.jpg
     thumb: P-I03_World_WILD_Web_-_Gerry.jpg
     title: "World WILD Web: Gerry"
     text: Movie poster advertisement for an original feature film
     alt: Movie poster with gerbil making snow angel
-  - file: P-I04_0Q_f5.6.png
+    tags: [ Illustration, World WILD Web ]
+  - filename: P-P10-crossing.jpg
+    thumb: P-P10-crossing.jpg
+    title: Crossing
+    text: Streets of Kaohsiung, Taiwan
+    alt: Skyscrapers in Roppongi Hills
+    tags: [ Photography ]
+  - filename: P-P06-reperepetition.jpg
+    thumb: P-P06-reperepetition.jpg
+    title: Reperepetition
+    text: repetition
+    alt: An infinity-like look down the train carriages
+    tags: [ Photography ]
+  - filename: P-P09-Saigone.jpg
+    thumb: P-P09-Saigone.jpg
+    title: Saigone
+    text: Saigon River
+    alt: A foggy aerial view of a river
+    tags: [ Photography ]
+  - filename: P-P02-lush.jpg
+    thumb: P-P02-lush.jpg
+    title: Lush
+    text: Triplet Falls, VIC
+    alt: Lush forest landscape
+    tags: [ Photography ]
+  - filename: P-P03-pass.jpg
+    thumb: P-P03-pass.jpg
+    title: Pass
+    text: Hakone, Japan
+    alt: Black and white photo of a person with passing buses
+    tags: [ Photography ]
+  - filename: P-P04-qmark.jpg
+    thumb: P-P04-qmark.jpg
+    title: "?"
+    text: Mount Lofty Botanical Gardens, SA
+    alt: an odd formation of leaves shaped like a question mark or mushroom
+    tags: [ Photography ]
+  - filename: P-I04_0Q_f5.6.png
     thumb: P-I04_0Q_f5.6.png
     title: "0Q: f/5.6"
     text: Album cover for an original single
     alt: Clownfish in transparent lens housing
-  - file: P-I05_0Q_acarium.png
+    tags: [ Illustration, 0Q ]
+  - filename: P-I05_0Q_acarium.png
     thumb: P-I05_0Q_acarium.png
     title: "0Q: Acarium"
-    text: "Album cover for an original single"
+    text: Album cover for an original single
     alt: Small school of fish in transparent car
-  - file: P-I06_0Q_washout.png
+    tags: [ Illustration, 0Q ]
+  - filename: P-I06_0Q_washout.png
     thumb: P-I06_0Q_washout.png
     title: "0Q: Wash Out"
     text: Album cover for an original single
     alt: Tropical fish in transparent washing machine
-  - file: P-I07_desert_igloo.jpg
+    tags: [ Illustration, 0Q ]
+  - filename: P-P07-archived.jpg
+    thumb: P-P07-archived.jpg
+    title: Archived
+    text: State Library Victoria, VIC
+    alt: Inside the state library of Victoria
+    tags: [ Photography ]
+  - filename: P-I07_desert_igloo.jpg
     thumb: P-I07_desert_igloo.jpg
-    title: "Egyptian Igloo"
+    title: Egyptian Igloo
     text: Coarse and rough and irritating and gets everywhere
     alt: Pyramid shaped igloos in a raging sandstorm
-  - file: P-I08_deep_sea_dive.jpg
+    tags: [ Illustration ]
+  - filename: P-I08_deep_sea_dive.jpg
     thumb: P-I08_deep_sea_dive.jpg
-    title: "Deep Sea Dive"
+    title: Deep Sea Dive
     text: X
     alt: Scuba diver searching in the depths of the sea
+    tags: [ Illustration ]

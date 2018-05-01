@@ -4,26 +4,30 @@
 title: Luan Tran
 description: Photographer // Illustrator
 email: hi@luanillustrates.com
+accolades:
+  - title: Robogals Head of Graphics
+    period: 2018 - Present
+    url: http://adelaide.robogals.org.au
+  - title: Robogals Head of the Dee
+    period: Jan 2016 - Feb 2016
+  - title: subarashii award desu
+    period: Apr 2013 - Jun 2015
+  - title: sugoi award desu
+    period: Apr 2013 - Jun 2015
 
-index-menu:
-- { name: About Me,     url: '/about',         type: other }
-- { name: Illustration, url: '/illustrations', type: block, icon: fa-pencil }
-- { name: Photography,  url: '/photography',   type: block, icon: fa-camera-retro }
-- { name: Let's Talk,   url: '/contact',       type: other }
-- { name: LUANtics,     url: '/luantics',          type: block, icon: fa-file-text-o }
 
 sidebar-menu:
-# - { name: Home, url: '/' }
-- { name: Portfolio }
-- { name: Illustration, url: '/illustrations', sub: 'Portfolio' }
-- { name: Photography,  url: '/photography',   sub: 'Portfolio' }
+- { name: Portfolio,    url: '/portfolio' }
+- { name: Illustration, url: '/portfolio#Illustration', sub: 'Portfolio' }
+- { name: Photography,  url: '/portfolio#Photography',  sub: 'Portfolio' }
 - { name: LUANtics,     url: '/luantics' }
 - { name: About Me,     url: '/about' }
 - { name: Let's Talk,   url: '/contact' }
 
 overlay-menu:
-- { name: Illustration, url: '/illustrations', icon: fa-pencil,       sub: 'Portfolio' }
-- { name: Photography,  url: '/photography',   icon: fa-camera-retro, sub: 'Portfolio' }
-- { name: LUANtics,     url: '/luantics',          icon: fa-newspaper-o }
-- { name: About Me,     url: '/about',         icon: fa-user }
-- { name: Let's Talk,   url: '/contact',       icon: fa-phone }
+- { name: Portfolio,    url: '/portfolio',              icon: fa-book }
+- { name: Illustration, url: '/portfolio#Illustration', icon: fa-pencil,       sub: 'Portfolio' }
+- { name: Photography,  url: '/portfolio#Photography',  icon: fa-camera-retro, sub: 'Portfolio' }
+- { name: LUANtics,     url: '/luantics',               icon: fa-newspaper-o }
+- { name: About Me,     url: '/about',                  icon: fa-user }
+- { name: Let's Talk,   url: '/contact',                icon: fa-phone }
