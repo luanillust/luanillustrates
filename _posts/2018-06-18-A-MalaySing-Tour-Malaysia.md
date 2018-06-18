@@ -3,7 +3,7 @@ layout: post
 number: "025"
 title: "A MalaySing Tour | Malaysia"
 action: Posted
-datec: 16.06.2018
+datec: 18.06.2018
 header-img: /assets/luantics/P025/P025banner.jpg
 description: "I spend a couple of days in Malaysia and tour around the country. It wasn't the greatest of trips but I still had a decent time."
 categories:
