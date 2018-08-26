@@ -4,6 +4,13 @@
 title: Luan Tran
 description: Photographer // Illustrator
 email: hi@luanillustrates.com
+
+# Social Links
+social:
+  facebook:  luanillustrates
+  instagram: luan.illust
+
+# About Me
 accolades:
   - title: Robogals Head of Graphics
     period: 2018 - Present
@@ -11,15 +18,13 @@ accolades:
 
 
 sidebar-menu:
-- { name: Portfolio,    url: '/portfolio' }
-- { name: LUANtics,     url: '/luantics' }
-- { name: About Me,     url: '/about' }
-- { name: Let's Talk,   url: '/contact' }
+- { name: Portfolio,  url: '/portfolio' }
+- { name: LUANtics,   url: '/luantics' }
+- { name: About Me,   url: '/about' }
+- { name: Let's Talk, url: '/contact' }
 
 overlay-menu:
-- { name: Portfolio,    url: '/portfolio',              icon: fa-book }
-- { name: Illustration, url: '/portfolio#Illustration', icon: fa-pencil,       sub: 'Portfolio' }
-- { name: Photography,  url: '/portfolio#Photography',  icon: fa-camera-retro, sub: 'Portfolio' }
-- { name: LUANtics,     url: '/luantics',               icon: fa-newspaper-o }
-- { name: About Me,     url: '/about',                  icon: fa-user }
-- { name: Let's Talk,   url: '/contact',                icon: fa-phone }
+- { name: Portfolio,  url: '/portfolio', icon: fa-book }
+- { name: LUANtics,   url: '/luantics',  icon: fa-newspaper-o }
+- { name: About Me,   url: '/about',     icon: fa-user }
+- { name: Let's Talk, url: '/contact',   icon: fa-phone }

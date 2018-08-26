@@ -21,7 +21,7 @@ layout: page
         {% endfor %}
       </ul>
       {% for file in gallery.files %}
-        <div id="{{ gallery.id }}-{{ forloop.index }}" class="gallery-content">
+        <div id="{{ gallery.id }}-{{ forloop.index }}" class="{{ gallery.id }}-lightbox gallery-content">
           {% assign extension = file.filename | extension %}
           {% if extension == ".pdf" %}
             <object class="pdf" data="{{ site.baseurl }}/{{ gallery.path }}/{{ file.filename }}#view=FitH" width="950px" height="750px" type="application/pdf"> 
@@ -70,11 +70,11 @@ layout: page
   }
 
   document.addEventListener('DOMContentLoaded', function() {
-    let Shuffle = window.Shuffle;
     let filterItems = [];
     let addedActive = false;
+    let reverse = true;
 
-    window.shuffleInstance = new Shuffle(document.querySelector('.gallery'), {
+    window.shuffleInstance = new window.Shuffle(document.querySelector('.gallery'), {
       itemSelector: ".gallery-item"
     });
 
@@ -103,6 +103,32 @@ layout: page
         element.click()
       }
     });
+
+    function sortItems() {
+      function sortByName(element) {
+        const id = element.getAttribute('href') + ' img, object';
+        if (document.querySelector(id).getAttribute('src') !== null) {
+          return document.querySelector(id).getAttribute('src').toLowerCase();
+        }
+        return document.querySelector(id).getAttribute('data').toLowerCase();
+      }
+
+      let options = {
+        by: sortByName,
+        reverse: reverse
+      };
+
+      reverse = !reverse;
+      window.shuffleInstance.sort(options);
+    }
+
+    document.addEventListener('keydown', event => {
+      if (event.keyCode === 83) {
+        sortItems();
+      }
+    });
+
+    sortItems();
 
     if (!loadFilter) {
       elements[0].classList.add('active');

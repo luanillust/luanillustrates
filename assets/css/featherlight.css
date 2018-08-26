@@ -61,7 +61,8 @@
 
     /* dimensions: handling large content */
     margin: 0 5%;
-    max-height: 95%;
+    /*max-height: 95%;*/
+    max-height: 100vh;
     max-width: 100%;
 
     /* styling */
@@ -119,7 +120,7 @@
   }
 
   .featherlight img, .featherlight object {
-    max-height: 76vh;
+    max-height: 100vh;
     margin: 0 auto;
     display: block;
   }
@@ -166,7 +167,7 @@
     /* dimensions: maximize lightbox with for small screens */
     margin-left: 0;
     margin-right: 0;
-    max-height: 98%;
+    /*max-height: 98%;*/
 
     /*padding: 10px 10px 0;*/
     /*border-bottom: 10px solid transparent;*/
