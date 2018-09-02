@@ -29,4 +29,4 @@ Other aids in my journey included: the <a href="https://www.doc.govt.nz/">Dept. 
 
 One last thing. I am glad New Zealand's driving laws are the same as Australia's and that I don't have to go through the headache of driving on the _wrong_ side of the road.
 
-Having travelled enough off the beaten track, <a href="/luantics/New-Zealand-The-Sights-Canterbury-part-1">let's return to the main story</a>.
+Having travelled enough off the beaten track, <a href="/luantics/new-zealand-the-sights-canterbury-part-1">let's return to the main story</a>.
