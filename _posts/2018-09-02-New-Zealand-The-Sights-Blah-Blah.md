@@ -1,9 +1,9 @@
 ---
 layout: post
-number: ""
+number: "28"
 title: "New Zealand: The Sights | blah blah"
 action: Posted
-datec: 01.09.2018
+datec: 02.09.2018
 header-img: /assets/luantics/P028/P028banner.jpg
 description: "A short post where I ramble about some things New Zealand and travel."
 hidden: true
