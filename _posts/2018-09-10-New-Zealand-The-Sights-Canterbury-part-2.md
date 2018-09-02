@@ -11,7 +11,7 @@ categories:
   - Travel
 ---
 
-Welcome back to "New Zealand: The Sights" part two. Simply craving more, we returned to Mount Cook for another round of sights and soreness. After yesterday's long hike, I don't know what I was thinking going back... 
+Welcome back to "New Zealand: The Sights" part two. As if yesterday's , we returned to Mount Cook for another round of sights and soreness. After yesterday's long hike, I don't know what spurred me to come back
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P028/P029NZ01.jpg" alt=""/>
