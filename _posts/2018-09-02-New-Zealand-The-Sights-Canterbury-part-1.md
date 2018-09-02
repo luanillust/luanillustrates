@@ -11,7 +11,7 @@ categories:
   - Travel
 ---
 
-Hello! Welcome to "New Zealand: The Sights", a series of chapters recounting my visual journey throughout the beautiful countryside of New Zealand's South Island. If you're interested in some minor anecdotes, click through to my <a href="/luantics/New-Zealand-The-Sights-Blah-Blah">ramblings here</a>. If not, read on.
+Hello! Welcome to "New Zealand: The Sights", a series of chapters recounting my visual journey throughout the beautiful countryside of New Zealand's South Island. If you're interested in some minor anecdotes, click through to my <a href="/luantics/new-zealand-the-sights-blah-blah">ramblings here</a>. If not, read on.
 
 Kicking us off, we travelled a long way to <a href="https://www.google.com/maps/place/Lake+Coleridge/@-43.2896498,171.4766395,13z/data=!3m1!4b1!4m5!3m4!1s0x6d2e882969d95f43:0x2a00ef86ab63c5c0!8m2!3d-43.2975277!4d171.4992884">Lake Coleridge</a> - the first of many lakes to come. Now, you're gonna get this a lot and it really can't be emphasised enough - New Zealand is a gorgeous country with stunning vistas everywhere you look, making it tough to keep my eyes on the road. Even empty plains were a sight to behold. 
 
