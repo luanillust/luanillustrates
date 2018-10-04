@@ -29,32 +29,32 @@
     text: "Bumbunga Lake, SA"
     alt: Salt crystals in a sunset glowing puddle
     tags: [ Photography ]
-  - filename: P05-lush.jpg
-    thumb: P05-lush.jpg
+  - filename: P05-.jpg
+    thumb: P05-speckled.jpg
+    title: Speckled
+    text: Hooker Valley Lake, New Zealand
+    alt: mountainscape speckled with pure white snow
+    tags: [ Photography ]
+  - filename: P06-lush.jpg
+    thumb: P06-lush.jpg
     title: Lush
     text: Triplet Falls, VIC
     alt: Lush forest landscape
     tags: [ Photography ]
-  - filename: P06-one-tree-hill.jpg
-    thumb: P06-one-tree-hill.jpg
-    title: One Tree Hill 
-    text: Overlooking Adelaide from Mt. Osmond
-    alt: Gumtree looming over Adelaide cityscape
-    tags: [ Photography ]
-  - filename: P07-worldwildweb-oceanique.jpg
-    thumb: P07-worldwildweb-oceanique.jpg
+  - filename: P07-www-oceanique.jpg
+    thumb: P07-www-oceanique.jpg
     title: "World WILD Web: Oceanique"
     text: "Original feature film poster"
     alt: Movie poster with octopus taking a bath in arctic waters
     tags: [ Illustration, Graphic ]
-  - filename: P08-worldwildweb-d-og.jpg
-    thumb: P08-worldwildweb-d-og.jpg
+  - filename: P08-www-d-og.jpg
+    thumb: P08-www-d-og.jpg
     title: "World WILD Web: D-OG"
     text: <sup><sup>wow</sup></sup> Original feature film poster
     alt: Movie poster with dog looking afar from cliff top
     tags: [ Illustration, Graphic ]
-  - filename: P09-worldwildweb-gerry.jpg
-    thumb: P09-worldwildweb-gerry.jpg
+  - filename: P09-www-gerry.jpg
+    thumb: P09-www-gerry.jpg
     title: "World WILD Web: Gerry"
     text: Original feature film poster
     alt: Movie poster with gerbil making snow angel
@@ -89,38 +89,33 @@
     text: Hakone, Japan
     alt: Black and white photo of a person with passing buses
     tags: [ Photography ]
-  - filename: P15-reperepetition.jpg
-    thumb: P15-reperepetition.jpg
-    title: Reperepetition
-    text: repetition
-    alt: An infinity-like look down the train carriages
+  - filename: P15-one-tree-hill.jpg
+    thumb: P15-one-tree-hill.jpg
+    title: One Tree Hill 
+    text: Overlooking Adelaide from Mt. Osmond
+    alt: Gumtree looming over Adelaide cityscape
     tags: [ Photography ]
-  - filename: P16-Saigone.jpg
-    thumb: P16-Saigone.jpg
-    title: Saigone
-    text: Saigon River
-    alt: A foggy aerial view of a river
-    tags: [ Photography ]
-  - filename: P17-qmark.jpg
-    thumb: P17-qmark.jpg
+  - filename: P16-qmark.jpg
+    thumb: P16-qmark.jpg
     title: "?"
-    text: Mount Lofty Botanical Gardens, SA
+    text: Mount Lofty Botanical Gardens, South Australia
     alt: an odd formation of leaves shaped like a question mark or mushroom
     tags: [ Photography ]
-  - filename: P18-profiteroles.pdf
+  - filename: P17-profiteroles.pdf
     thumb: profiteroles.png
     title: Your Guide to Profiteroles
-    text: "A brief, easy-to-follow recipe for profiteroles"
-    tags: [ Photography, Graphic ]
-  - filename: P19-desert-igloo.jpg
-    thumb: P19-desert-igloo.jpg
+    text: "A brief, easy-to-follow recipe for profiteroles" 
+    tags: [ Photography ]
+  - filename: P18-desert-igloo.jpg
+    thumb: P18-desert-igloo.jpg
     title: Egyptian Igloo
     text: Coarse and rough and irritating and gets everywhere
     alt: Pyramid shaped igloos in a raging sandstorm
     tags: [ Illustration ]
-  - filename: P20-deep-sea.jpg
-    thumb: P20-deep-sea.jpg
+  - filename: P19-deep-sea.jpg
+    thumb: P19-deep-sea.jpg
     title: Deep Sea Dive
     text: X
     alt: Scuba diver searching in the depths of the sea
     tags: [ Illustration ]
+
