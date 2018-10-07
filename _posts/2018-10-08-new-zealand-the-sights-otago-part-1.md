@@ -3,7 +3,7 @@ layout: post
 number: "031"
 title: "New Zealand: The Sights | Otago [Pt. 1 of 4]"
 action: Posted
-datec: 06.10.2018
+datec: 08.10.2018
 header-img: /assets/luantics/P031/P031banner.jpg
 description: "The first chapter in my Otago region adventure in New Zealand. I made my way from Tekapo to Wanaka and discover the great sights New Zealand has to offer."
 categories:

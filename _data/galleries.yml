@@ -8,114 +8,126 @@
   - filename: P01-paradise.png
     thumb: P01-paradise.png
     title: "paradise"
-    text: "An original album cover"
-    alt: A pineapple mason jar acts as a leisure pool for the couple
+    text: "Luan Tran original album cover"
+    alt: a couple relax in the pineapple mason jar pool
     tags: [ Photography, Graphic, Illustration ]
   - filename: P02-mixnmatch.png
     thumb: P02-mixnmatch.png
     title: "mix 'n match"
-    text: "An original album cover"
-    alt: A mismatched 1975 Volkswagen Passat with a dog in the driver's seat
+    text: "Luan Tran original album cover"
+    alt: an orange and blue 1975 Volkswagen Passat model car with a dog in the driver's seat
     tags: [ Photography, Graphic, Illustration ]
   - filename: P03-non.png
     thumb: P03-non.png
     title: "nonsense"
-    text: "An original album cover"
-    alt: A can of nothing posing as a cannon with two soldiers up to no good
+    text: "Luan Tran original album cover"
+    alt: soldiers light up the can's fuse
     tags: [ Photography, Graphic, Illustration ]
-  - filename: P04-sunsalt-glow.jpg
-    thumb: P04-sunsalt-glow.jpg
-    title: Sunsalt Glow
-    text: "Bumbunga Lake, SA"
-    alt: Salt crystals in a sunset glowing puddle
+  - filename: P04-mistical.jpg
+    thumb: P04-mistical.jpg
+    title: mistical
+    text: "Lake Hayes, New Zealand"
+    alt: a veil of mist hovers over the snow speckled mountain
     tags: [ Photography ]
-  - filename: P05-speckled.jpg
-    thumb: P05-speckled.jpg
-    title: Speckled
-    text: Hooker Valley Lake, New Zealand
-    alt: mountainscape speckled with pure white snow
+  - filename: P05-bw.jpg
+    thumb: P05-bw.jpg
+    title: contrast
+    text: "Tasman Lake, New Zealand"
+    alt: black and white mountainscape speckled with snow
     tags: [ Photography ]
-  - filename: P06-lush.jpg
-    thumb: P06-lush.jpg
-    title: Lush
-    text: Triplet Falls, VIC
-    alt: Lush forest landscape
+  - filename: P06-marbled.jpg
+    thumb: P06-marbled.jpg
+    title: marbled
+    text: "Hooker Lake, New Zealand"
+    alt: a mountain structure covered with marbling-like snow
     tags: [ Photography ]
   - filename: P07-www-oceanique.jpg
     thumb: P07-www-oceanique.jpg
     title: "World WILD Web: Oceanique"
-    text: "Original feature film poster"
-    alt: Movie poster with octopus taking a bath in arctic waters
+    text: "Luan Tran original feature film poster"
+    alt: movie poster with octopus bathing in arctic waters
     tags: [ Illustration, Graphic ]
   - filename: P08-www-d-og.jpg
     thumb: P08-www-d-og.jpg
     title: "World WILD Web: D-OG"
-    text: <sup><sup>wow</sup></sup> Original feature film poster
-    alt: Movie poster with dog looking afar from cliff top
+    text: "<sup><sup>wow</sup></sup> Luan Tran original feature film poster"
+    alt: movie poster with gangster dog looking afar from cliff top
     tags: [ Illustration, Graphic ]
   - filename: P09-www-gerry.jpg
     thumb: P09-www-gerry.jpg
     title: "World WILD Web: Gerry"
-    text: Original feature film poster
-    alt: Movie poster with gerbil making snow angel
+    text: "Luan Tran original feature film poster"
+    alt: movie poster with a gerbil in jumpsuit making snow angel
     tags: [ Illustration, Graphic ]
-  - filename: P10-f5.6.png
-    thumb: P10-f5.6.png
+  - filename: P10-silky.jpg
+    thumb: P10-silky.jpg
+    title: silky
+    text: "Mount Crichton, New Zealand"
+    alt: long exposed shot of a waterfall surrounded by lush greenery
+    tags: [ Photography ]
+  - filename: P11-sunset-kissed.jpg
+    thumb: P11-sunset-kissed.jpg
+    title: sun(set) kissed
+    text: "Lake Wanaka lookout"
+    alt: an orange glow shines on the snow-capped mountain
+    tags: [ Photography ]
+  - filename: P12-spectrum.jpg
+    thumb: P12-spectrum.jpg
+    title: spectrum
+    text: "Thunder Creek Falls, New Zealand"
+    alt: the visible spectrum can be subtly seen in the waterfall
+    tags: [ Photography ]
+  - filename: P13-f5.6.png
+    thumb: P13-f5.6.png
     title: "f/5.6"
-    text: Album cover for an original single
-    alt: Clownfish in transparent lens housing
+    text: "Luan Tran original album cover"
+    alt: clownfish in transparent lens housing
     tags: [ Illustration, Graphic ]
-  - filename: P11-acarium.png
-    thumb: P11-acarium.png
-    title: "Acarium"
-    text: Album cover for an original single
-    alt: Small school of fish in transparent car
+  - filename: P14-acarium.png
+    thumb: P14-acarium.png
+    title: "acarium"
+    text: "Luan Tran original album cover"
+    alt: small school of fish in transparent car
     tags: [ Illustration, Graphic ]
-  - filename: P12-washout.png
-    thumb: P12-washout.png
-    title: "Wash Out"
-    text: Album cover for an original single
-    alt: Tropical fish in transparent washing machine
+  - filename: P15-washout.png
+    thumb: P15-washout.png
+    title: "wash out"
+    text: "Luan Tran original album cover"
+    alt: tropical fish in transparent washing machine
     tags: [ Illustration, Graphic ]
-  - filename: P13-crossing.jpg
-    thumb: P13-crossing.jpg
-    title: Crossing
-    text: Streets of Kaohsiung, Taiwan
-    alt: Skyscrapers in Roppongi Hills
-    tags: [ Photography ]
-  - filename: P14-pass.jpg
-    thumb: P14-pass.jpg
-    title: Pass
-    text: Hakone, Japan
-    alt: Black and white photo of a person with passing buses
-    tags: [ Photography ]
-  - filename: P15-one-tree-hill.jpg
-    thumb: P15-one-tree-hill.jpg
-    title: One Tree Hill 
-    text: Overlooking Adelaide from Mt. Osmond
-    alt: Gumtree looming over Adelaide cityscape
-    tags: [ Photography ]
   - filename: P16-qmark.jpg
     thumb: P16-qmark.jpg
     title: "?"
-    text: Mount Lofty Botanical Gardens, South Australia
-    alt: an odd formation of leaves shaped like a question mark or mushroom
+    text: "Mount Lofty Botanical Gardens, Australia"
+    alt: an odd formation of leaves shaped like a question mark
     tags: [ Photography ]
-  - filename: P17-profiteroles.pdf
-    thumb: profiteroles.png
-    title: Your Guide to Profiteroles
-    text: "A brief, easy-to-follow recipe for profiteroles" 
+  - filename: P17-sunsalt-glow.jpg
+    thumb: P17-sunsalt-glow.jpg
+    title: "sunsalt glow"
+    text: "Lake Bumbunga, Australia"
+    alt: salt crystals on a sunset puddle
     tags: [ Photography ]
-  - filename: P18-desert-igloo.jpg
-    thumb: P18-desert-igloo.jpg
-    title: Egyptian Igloo
-    text: Coarse and rough and irritating and gets everywhere
-    alt: Pyramid shaped igloos in a raging sandstorm
+  - filename: P18-crossing.jpg
+    thumb: P18-crossing.jpg
+    title: "crossing"
+    text: "streets of Kaohsiung, Taiwan"
+    alt: yellow criss-crossed lines
+    tags: [ Photography ]
+  - filename: P19-profiteroles.pdf
+    thumb: profiteroles.jpg
+    title: profiteroles
+    text: "short recipe book" 
+    tags: [ Photography, Graphic ]
+  - filename: P20-desert-igloo.jpg
+    thumb: P20-desert-igloo.jpg
+    title: Egyptian igloo
+    text: "coarse, rough, irritating and gets everywhere"
+    alt: pyramid shaped igloos in a raging sandstorm
     tags: [ Illustration ]
-  - filename: P19-deep-sea.jpg
-    thumb: P19-deep-sea.jpg
-    title: Deep Sea Dive
-    text: X
-    alt: Scuba diver searching in the depths of the sea
+  - filename: P21-deep-sea.jpg
+    thumb: P21-deep-sea.jpg
+    title: deep sea dive
+    text: "x"
+    alt: scuba diver searching in the depths of the sea
     tags: [ Illustration ]
 
