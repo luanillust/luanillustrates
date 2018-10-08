@@ -14,7 +14,7 @@ categories:
 Welcome to part one of New Zealand: The Sights - Otago, a continuation of my first venture into the gorgeous country. Leaving Tekapo behind, we got the wheels rolling and started the long journey to our next township down in <a href="https://www.google.com/maps/place/Wanaka,+New+Zealand/@-44.7163711,169.075331,13z/data=!3m1!4b1!4m5!3m4!1s0xa9d5461db9ec2d6f:0x500ef868479c1e0!8m2!3d-44.7031813!4d169.1320981">Wanaka</a>. 
 
 <div class="imageset">
-	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ01.jpg" alt="the morning sunrise peeks out from the clouds and snowy mountains at Lake Tekapo"/>
+	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ01.jpg" alt="morning sunrise peeks out from the clouds and snowy mountains at Lake Tekapo"/>
 	<em><sup>Another sunrise attempt bites the dust</sup></em>
 	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ02.jpg" alt="an arching road leading to the snowy mountains"/>
 	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ04.jpg" alt="sharp angular mountains off in the distance from the lake waters"/>
@@ -29,7 +29,7 @@ Reaching about halfway, we arrived at some ominous looking roads. Plastered with
 	<em><sup>I mean, how can you not?</sup></em>
 </div>
 
-From top to bottom, every mountain was enveloped by a blanket of stark white snow. It was absolutely breathtaking and I hardly ever say that. Feeling ill-equipped, we had to forego any ideas of climbing up the snowed over track heading up to the lookout. Not sticking around much longer, we couldn't do much but move on.
+From top to bottom, every mountain was enveloped by a blanket of stark white snow. It was absolutely breathtaking and I never use that phrase. Feeling ill-equipped, we had to forego any ideas of climbing up the snowed over track heading up to the lookout. Not sticking around any longer, we couldn't do much but move on.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ07.jpg" alt="snow blankets the entire area at Lindis Pass"/>
@@ -56,7 +56,7 @@ Once in the clear, it was smooth sailing until Wanaka. With scenic views more or
 	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ20.jpg" alt="an old bridge that can only carry one lane of vehicles"/>
 </div>
 
-Upon our arrival in Wanaka, we made a stop for a different type of sight - <a href="https://www.google.com/maps/place/Puzzling+World/@-44.6969882,169.1595093,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d54f268575edf9:0xfa66441c199b7fcf!8m2!3d-44.696992!4d169.161698">Puzzling World</a>, an attraction with some puzzles, a lot of optical illusions and an outdoor maze. For NZ$22.50, we opted for the combo pass allowing us access to everything available. That was a mistake. Standalone pricing for the maze/illusions was NZ$18, clearly to rope in naïve people like me for the full package. The maze was a strong _meh_ and wasn't worth my time, money or thought. On that note, I found many of the illusions to be mediocre as well. However, the tilt room (illusions) alone was worth the price of admission. Unable to keep still and having a trippy sense of balance, I had an absolute blast.
+Upon our arrival in Wanaka, we stopped for a different type of sight - <a href="https://www.google.com/maps/place/Puzzling+World/@-44.6969882,169.1595093,17z/data=!3m1!4b1!4m5!3m4!1s0xa9d54f268575edf9:0xfa66441c199b7fcf!8m2!3d-44.696992!4d169.161698">Puzzling World</a>, an attraction with tricky puzzles, fancy optical illusions and an outdoor maze. For NZ$22.50, we opted for the combo pass allowing access to everything available. That was a mistake. Standalone pricing for the maze/illusions was NZ$18, clearly to rope in naïve people like me for the full package. The maze was a strong _meh_ and wasn't worth my time, money or thought. On that note, I found many of the illusions to be mediocre as well. However, the tilt room (found in illusions) alone was worth the price of admission. I had an absolute blast with the trippy sense of balance.
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ21.jpg" alt="a mural of the toilets back in historic times"/>
@@ -139,7 +139,7 @@ Rejuvenated with the short break, we made the insufferable return to the car and
 	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ63.jpg" alt="a starry night sky veiled with clouds"/>
 </div>
 
-The next day saw us return to the aimless driving. Due to my miserable attempt at visiting locations, I only yielded us an emptier tank of fuel and feelings of disappointment. Besides this mishap, the only notable occurrence was our visit to <a href="https://www.google.com/maps/place/Roaring+Meg+9384,+New+Zealand/@-44.9810343,168.9707866,12z/data=!3m1!4b1!4m5!3m4!1s0xa9d52f6ce36ef947:0x500ef8684796480!8m2!3d-44.9722069!4d169.0541696">Roaring Meg</a>, a stream that powers a hydro-electric plant. Though there wasn't much to the place, its smashing sights and soothing sounds made Roaring Meg a nice stop to admire. 
+The next day saw us return to the aimless driving. Due to my miserable attempt at visiting locations, I only yielded us an emptier tank of fuel and feelings of disappointment. Besides this mishap, the only notable occurrence was our visit to <a href="https://www.google.com/maps/place/Roaring+Meg+9384,+New+Zealand/@-44.9810343,168.9707866,12z/data=!3m1!4b1!4m5!3m4!1s0xa9d52f6ce36ef947:0x500ef8684796480!8m2!3d-44.9722069!4d169.0541696">Roaring Meg</a>, a stream that powers a hydro-electric plant. Though there wasn't much to the place, its smashing sights and soothing sounds would make it a good place for a pit stop. 
 
 <div class="imageset">
 	<img src="{{ baseurl }}/assets/luantics/P031/P031NZ64.jpg" alt="a grassy mountain with a snowy mountain"/>
