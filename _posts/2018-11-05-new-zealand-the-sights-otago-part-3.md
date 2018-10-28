@@ -3,7 +3,7 @@ layout: post
 number: "033"
 title: "New Zealand: The Sights | Otago [Pt. 3 of 4]"
 action: Posted
-datec: 25.10.2018
+datec: 05.11.2018
 header-img: /assets/luantics/P033/P033banner.jpg
 description: ""
 categories:
